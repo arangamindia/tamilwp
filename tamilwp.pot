@@ -1636,7 +1636,7 @@ msgstr "அடுத்த"
 #: wp-includes/class-wp-editor.php:938
 msgctxt "find/replace"
 msgid "Prev"
-msgstr "munthaiya"
+msgstr "முந்தைய	"
 
 #: wp-includes/class-wp-editor.php:939
 msgctxt "find/replace"
@@ -2411,11 +2411,11 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:1581
 msgid "Sorry, you are not allowed to delete this post."
-msgstr ""
+msgstr "மன்னிக்கவும், இந்த இடுகையை நீக்க உங்களுக்கு அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1586
 msgid "The post cannot be deleted."
-msgstr ""
+msgstr "இந்த இடுகையை நீக்க இயலவில்லை"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1676
 #: wp-includes/class-wp-xmlrpc-server.php:4188
@@ -2782,15 +2782,15 @@ msgstr ""
 
 #: wp-includes/comment-template.php:787
 msgid "% Comments"
-msgstr ""
+msgstr "% பின்னூட்டங்கள்"
 
 #: wp-includes/comment-template.php:789
 msgid "No Comments"
-msgstr ""
+msgstr "பின்னூட்டங்கள் இல்லை"
 
 #: wp-includes/comment-template.php:791
 msgid "1 Comment"
-msgstr ""
+msgstr "ஒரு பின்னூட்டம்"
 
 #: wp-includes/comment-template.php:945 wp-includes/comment-template.php:2253
 msgctxt "noun"
