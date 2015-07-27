@@ -1602,7 +1602,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:928
 msgid "Color"
-msgstr ""
+msgstr "நிறம்"
 
 #: wp-includes/class-wp-editor.php:929
 msgid "Custom color"
@@ -1636,12 +1636,12 @@ msgstr "அடுத்த"
 #: wp-includes/class-wp-editor.php:938
 msgctxt "find/replace"
 msgid "Prev"
-msgstr ""
+msgstr "munthaiya"
 
 #: wp-includes/class-wp-editor.php:939
 msgctxt "find/replace"
 msgid "Whole words"
-msgstr ""
+msgstr "முழு சொற்கள்"
 
 #: wp-includes/class-wp-editor.php:940
 msgid "Find and replace"
@@ -1655,7 +1655,7 @@ msgstr ""
 #: wp-includes/class-wp-editor.php:942
 msgctxt "find/replace"
 msgid "Find"
-msgstr ""
+msgstr "தேடு"
 
 #: wp-includes/class-wp-editor.php:943
 msgctxt "find/replace"
@@ -1893,7 +1893,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:1008
 msgid "Text color"
-msgstr ""
+msgstr "உரை நிறம்"
 
 #: wp-includes/class-wp-editor.php:1009
 msgctxt "editor button"
@@ -2183,15 +2183,15 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:257
 msgid "Incorrect username or password."
-msgstr ""
+msgstr "பயனர் பெயர் அல்லது கடவுச்சொல் சரியானதல்ல."
 
 #: wp-includes/class-wp-xmlrpc-server.php:386
 msgid "Software Name"
-msgstr ""
+msgstr "மென்பொருள் பெயர்"
 
 #: wp-includes/class-wp-xmlrpc-server.php:391
 msgid "Software Version"
-msgstr ""
+msgstr "மென்பொருள் பதிப்பு"
 
 #: wp-includes/class-wp-xmlrpc-server.php:396
 msgid "WordPress Address (URL)"
@@ -7627,11 +7627,11 @@ msgstr ""
 
 #: wp-signup.php:131
 msgid "Yes"
-msgstr ""
+msgstr "ஆம்"
 
 #: wp-signup.php:135
 msgid "No"
-msgstr ""
+msgstr "இல்லை"
 
 #: wp-signup.php:182
 msgid "(Must be at least 4 characters, letters and numbers only.)"
@@ -7659,7 +7659,7 @@ msgstr ""
 
 #: wp-signup.php:268
 msgid "Sites you are already a member of:"
-msgstr ""
+msgstr "நீங்கள் ஏற்கெனவே உறுப்பினாராக உள்ள தளங்கள்:"
 
 #: wp-signup.php:277
 msgid "If you&#8217;re not going to use a great site domain, leave it for a new user. Now have at it!"
@@ -7667,11 +7667,11 @@ msgstr ""
 
 #: wp-signup.php:292
 msgid "Create Site"
-msgstr ""
+msgstr "தளத்தை உருவாக்கு"
 
 #: wp-signup.php:374
 msgid "The site %s is yours."
-msgstr ""
+msgstr "தளம் %s உங்களுடையது"
 
 #: wp-signup.php:376
 msgid "<a href=\"http://%1$s\">http://%2$s</a> is your new site. <a href=\"%3$s\">Log in</a> as &#8220;%4$s&#8221; using your existing password."
