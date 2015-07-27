@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2015-07-27 16:54+0530\n"
+"PO-Revision-Date: 2015-07-27 18:02+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: tamizh\n"
@@ -7592,11 +7592,11 @@ msgstr "கடவுச்சொல்கள் சேரவில்லை"
 
 #: wp-login.php:641
 msgid "Password Reset"
-msgstr ""
+msgstr "கடவுச்சொல் மீட்டமைப்பு"
 
 #: wp-login.php:641
 msgid "Your password has been reset."
-msgstr ""
+msgstr "உங்களது கடவுச்சொல் மீட்டமைக்கப்பட்டது"
 
 #: wp-login.php:649 wp-login.php:681
 msgid "Reset Password"
