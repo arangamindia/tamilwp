@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2015-07-27 15:35+0530\n"
+"PO-Revision-Date: 2015-07-27 16:54+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: tamizh\n"
@@ -6523,11 +6523,11 @@ msgstr ""
 
 #: wp-includes/script-loader.php:378
 msgid "Show"
-msgstr ""
+msgstr "காட்டு"
 
 #: wp-includes/script-loader.php:379
 msgid "Hide"
-msgstr ""
+msgstr "மறைத்திடு"
 
 #: wp-includes/script-loader.php:381
 msgid "Show password"
@@ -6559,7 +6559,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:425
 msgid "Saved"
-msgstr ""
+msgstr "சேமிக்கப்பட்டது"
 
 #: wp-includes/script-loader.php:429
 msgid "Site Preview"
@@ -6854,7 +6854,7 @@ msgstr ""
 
 #: wp-includes/taxonomy.php:499
 msgid "Search Categories"
-msgstr ""
+msgstr "பிரிவுகளை தேடு"
 
 #: wp-includes/taxonomy.php:500
 msgid "Popular Tags"
@@ -7009,7 +7009,7 @@ msgstr ""
 
 #: wp-includes/theme-compat/comments-popup.php:33
 msgid "Comments"
-msgstr ""
+msgstr "பின்னூட்டங்கள்"
 
 #: wp-includes/theme-compat/comments-popup.php:35
 msgid ""
@@ -7058,7 +7058,7 @@ msgstr ""
 
 #: wp-includes/theme-compat/comments-popup.php:89
 msgid "Your Comment"
-msgstr ""
+msgstr "உங்களது பின்னூட்டம்"
 
 #: wp-includes/theme-compat/comments-popup.php:97
 msgid "Say It!"
@@ -7070,7 +7070,7 @@ msgstr ""
 
 #: wp-includes/theme-compat/comments-popup.php:110
 msgid "Close this window."
-msgstr ""
+msgstr "இந்த சாளரத்தை மூடு."
 
 #: wp-includes/theme-compat/comments-popup.php:116
 msgid "Sorry, no posts matched your criteria."
@@ -7089,7 +7089,7 @@ msgstr ""
 #. translators: %s: post title
 #: wp-includes/theme-compat/comments.php:30
 msgid "One response to %s"
-msgstr ""
+msgstr "%s-க்கு ஒரு எதிர்விளைவு"
 
 #. translators: 1: number of comments, 2: post title
 #: wp-includes/theme-compat/comments.php:33
@@ -7100,7 +7100,7 @@ msgstr[1] ""
 
 #: wp-includes/theme-compat/comments.php:59
 msgid "Comments are closed."
-msgstr ""
+msgstr "பின்னூட்டங்கள் மூடப்பட்டுள்ளன."
 
 #: wp-includes/theme-compat/comments.php:82
 msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
@@ -7112,12 +7112,12 @@ msgstr "இந்த கணக்கிலிருந்து வெளிய�
 
 #: wp-includes/theme-compat/comments.php:82
 msgid "Log out &raquo;"
-msgstr ""
+msgstr "வெளியேறு  &raquo;"
 
 #: wp-includes/theme-compat/comments.php:87
 #: wp-includes/theme-compat/comments.php:90
 msgid "(required)"
-msgstr ""
+msgstr "(தேவைப்படுகிறது)"
 
 #: wp-includes/theme-compat/comments.php:90
 msgid "Mail (will not be published)"
@@ -7129,7 +7129,7 @@ msgstr ""
 
 #: wp-includes/theme-compat/comments.php:101
 msgid "Submit Comment"
-msgstr ""
+msgstr "பின்னூட்டத்தை அனுப்பு"
 
 #: wp-includes/theme-compat/footer.php:17
 msgid "%1$s is proudly powered by %2$s"
@@ -7149,7 +7149,7 @@ msgstr "பின்னூட்டங்கள் (RSS)"
 
 #: wp-includes/theme-compat/footer.php:20
 msgid "%d queries. %s seconds."
-msgstr ""
+msgstr "%d வேண்டல்கள். %s நொடிகள்."
 
 #: wp-includes/theme-compat/sidebar.php:32
 msgid "You are currently browsing the archives for the %s category."
@@ -7312,7 +7312,7 @@ msgstr ""
 
 #: wp-includes/user.php:2217
 msgid "[%s] Notice of Password Change"
-msgstr ""
+msgstr "[%s] கடவுச்சொல் மாற்றப்பட்டதன் அறிவிப்பு"
 
 #. translators: Do not translate USERNAME, ADMIN_EMAIL, EMAIL, SITENAME,
 #. SITEURL: those are placeholders.
@@ -7334,7 +7334,7 @@ msgstr ""
 
 #: wp-includes/user.php:2272
 msgid "[%s] Notice of Email Change"
-msgstr ""
+msgstr "[%s] மின்னஞ்சல் மாற்றம் குறித்தான அறிவிப்பு"
 
 #: wp-includes/user.php:2381
 msgid "AIM"
@@ -7454,7 +7454,7 @@ msgstr ""
 
 #: wp-includes/wp-db.php:1299 wp-includes/wp-db.php:1316
 msgid "WordPress database error:"
-msgstr ""
+msgstr "வொர்ட்பிரஸ் தரவுத்தள பிழை:"
 
 #: wp-includes/wp-db.php:1497
 msgid ""
@@ -7503,7 +7503,7 @@ msgstr ""
 
 #: wp-load.php:78
 msgid "Create a Configuration File"
-msgstr ""
+msgstr " ஒரு வடிவமைப்பு கோப்பை உருவாக்கு"
 
 #: wp-login.php:102
 msgid "Powered by WordPress"
@@ -7519,7 +7519,7 @@ msgstr ""
 
 #: wp-login.php:284
 msgid "<strong>ERROR</strong>: Enter a username or e-mail address."
-msgstr ""
+msgstr "<strong>பிழை</strong>: பயனர் பெயர் அல்லது மின்னஞ்சலை கொடுக்கவும்."
 
 #: wp-login.php:288
 msgid ""
@@ -7528,27 +7528,27 @@ msgstr ""
 
 #: wp-login.php:305
 msgid "<strong>ERROR</strong>: Invalid username or e-mail."
-msgstr ""
+msgstr "<strong>பிழை</strong>: பயனர் பெயர் அல்லது மின்னஞ்சல் செல்லாதது."
 
 #: wp-login.php:343
 msgid "Password reset is not allowed for this user"
-msgstr ""
+msgstr "இந்த பயனருக்கு கடவுச்சொல்  மீட்டமைக்க இயலாது"
 
 #: wp-login.php:369
 msgid "Someone requested that the password be reset for the following account:"
-msgstr ""
+msgstr " கீழ்க்காணும் கணக்கிற்கு யாரோ கடவுச்சொல் திருப்பியமைக்கும்படி வேண்டியுள்ளார்:"
 
 #: wp-login.php:372
 msgid "If this was a mistake, just ignore this email and nothing will happen."
-msgstr ""
+msgstr "அது ஒரு பிழையாக இருந்தால் இந்த மின்னஞ்சலை புறக்கணித்து விட்டால் ஒன்றும் நடக்காது."
 
 #: wp-login.php:373
 msgid "To reset your password, visit the following address:"
-msgstr ""
+msgstr "உங்கள் கடவுச்சொல்லை மீட்டமைக்க, கீழ்காணும் முகவரிக்கு செல்லவும்:"
 
 #: wp-login.php:385
 msgid "[%s] Password Reset"
-msgstr ""
+msgstr "[%s] கடவுச்சொல் மீட்டமைப்பு"
 
 #: wp-login.php:410
 msgid "The e-mail could not be sent."
@@ -7657,7 +7657,7 @@ msgstr ""
 
 #: wp-login.php:831
 msgid "You have logged in successfully."
-msgstr ""
+msgstr "நீங்கள் வெற்றிகரமாக உள்நுழைந்து உள்ளீர்கள்."
 
 #: wp-login.php:865
 msgid ""
@@ -7674,11 +7674,11 @@ msgstr ""
 
 #: wp-login.php:873
 msgid "Check your e-mail for the confirmation link."
-msgstr ""
+msgstr "சரிபார்ப்பு இணைப்பிற்கு உங்களது மின்னஞ்சலில் காண்க"
 
 #: wp-login.php:875
 msgid "Check your e-mail for your new password."
-msgstr ""
+msgstr "புதிய கடவுசொல்லிற்கு உங்களது மின்னஞ்சலில் காண்க"
 
 #: wp-login.php:877
 msgid "Registration complete. Please check your e-mail."
@@ -7692,7 +7692,7 @@ msgstr ""
 
 #: wp-mail.php:15
 msgid "This action has been disabled by the administrator."
-msgstr ""
+msgstr "இந்த செயல்பாடு நிர்வாகிக்கு முடக்கப்பட்டுள்ளது."
 
 #: wp-mail.php:34
 msgid "Slow down cowboy, no need to check for new mails so often!"
@@ -7774,7 +7774,7 @@ msgstr ""
 
 #: wp-signup.php:185
 msgid "Email&nbsp;Address:"
-msgstr ""
+msgstr "மின்னஞ்சல்&nbsp;முகவரி"
 
 #: wp-signup.php:189
 msgid ""
@@ -7827,7 +7827,7 @@ msgstr ""
 
 #: wp-signup.php:446
 msgid "Gimme a site!"
-msgstr ""
+msgstr "எனக்கு ஒரு தளத்தை கொடு !"
 
 #: wp-signup.php:449
 msgid "Just a username, please."
