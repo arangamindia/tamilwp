@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2015-07-27 18:02+0530\n"
+"PO-Revision-Date: 2015-07-28 16:58+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: tamizh\n"
@@ -1671,7 +1671,7 @@ msgstr "அடுத்த"
 #: wp-includes/class-wp-editor.php:938
 msgctxt "find/replace"
 msgid "Prev"
-msgstr "முந்தைய\t"
+msgstr "முந்தைய"
 
 #: wp-includes/class-wp-editor.php:939
 msgctxt "find/replace"
@@ -1750,11 +1750,11 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:959
 msgid "Row"
-msgstr ""
+msgstr "கிடைவரிசை"
 
 #: wp-includes/class-wp-editor.php:960
 msgid "Rows"
-msgstr ""
+msgstr "கிடைவரிசைகள்"
 
 #: wp-includes/class-wp-editor.php:961
 msgctxt "table column"
@@ -1816,7 +1816,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:975
 msgid "Delete row"
-msgstr ""
+msgstr " வரிசையை நீக்கு"
 
 #: wp-includes/class-wp-editor.php:976
 msgid "Delete column"
@@ -5772,7 +5772,7 @@ msgstr ""
 
 #: wp-includes/post-template.php:130
 msgid "Protected: %s"
-msgstr ""
+msgstr "பாதுகாக்கப்பட்டது: %s"
 
 #: wp-includes/post-template.php:145
 msgid "Private: %s"
@@ -5792,15 +5792,15 @@ msgstr ""
 
 #: wp-includes/post-template.php:808
 msgid "Next page"
-msgstr ""
+msgstr "அடுத்த பக்கம்"
 
 #: wp-includes/post-template.php:809
 msgid "Previous page"
-msgstr ""
+msgstr "முந்தைய பக்கம்"
 
 #: wp-includes/post-template.php:1225
 msgid "Home"
-msgstr ""
+msgstr "முகப்பு"
 
 #: wp-includes/post-template.php:1667
 msgid ""
@@ -5966,7 +5966,7 @@ msgstr[1] ""
 
 #: wp-includes/post.php:921 wp-includes/post.php:942
 msgid "Draft"
-msgstr ""
+msgstr "வரைவு"
 
 #: wp-includes/post.php:922
 msgid "Pending Review"
@@ -6379,15 +6379,15 @@ msgstr ""
 
 #: wp-includes/script-loader.php:269
 msgid "This file is empty. Please try another."
-msgstr ""
+msgstr "இந்த கோப்பு காலியாக உள்ளது. வேறொன்றை முயற்சிக்கவும்."
 
 #: wp-includes/script-loader.php:270
 msgid "This file type is not allowed. Please try another."
-msgstr ""
+msgstr "இந்த கோப்பு வகைக்கு அனுமதியில்லை. வேறொன்றை முயற்சிக்கவும்"
 
 #: wp-includes/script-loader.php:271
 msgid "This file is not an image. Please try another."
-msgstr ""
+msgstr "இந்த கோப்பு ஒரு பிம்பமல்ல. வேறொன்றை முயற்சிக்கவும்"
 
 #: wp-includes/script-loader.php:272
 msgid "Memory exceeded. Please try another smaller file."
@@ -6395,11 +6395,11 @@ msgstr ""
 
 #: wp-includes/script-loader.php:273
 msgid "This is larger than the maximum size. Please try another."
-msgstr ""
+msgstr "இது கோப்பின் அதிகபட்ச கன அளவை மிஞ்சிவிட்டது.  வேறொன்றை முயற்சிக்கவும்"
 
 #: wp-includes/script-loader.php:274
 msgid "An error occurred in the upload. Please try again later."
-msgstr ""
+msgstr "பதிவேற்றத்தில் பிழை ஏற்பட்டது. மீண்டும் சிறிது நேரம் கழித்து முயற்சிக்கவும்."
 
 #: wp-includes/script-loader.php:275
 msgid ""
@@ -6408,7 +6408,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:276
 msgid "You may only upload 1 file."
-msgstr ""
+msgstr "நீங்கள் ஒரு கோப்பை மட்டும் பதிவேற்ற முடியும்."
 
 #: wp-includes/script-loader.php:277
 msgid "HTTP error."
@@ -6416,7 +6416,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:278
 msgid "Upload failed."
-msgstr ""
+msgstr "பதிவேற்றம் தோல்வியடைந்தது."
 
 #: wp-includes/script-loader.php:279
 msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
@@ -6442,7 +6442,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:284
 msgid "Upload stopped."
-msgstr ""
+msgstr "பதிவேற்றம் நிறுத்தப்பட்டது."
 
 #: wp-includes/script-loader.php:286
 msgid "Crunching&hellip;"
@@ -6458,11 +6458,11 @@ msgstr ""
 
 #: wp-includes/script-loader.php:339
 msgid "Download File"
-msgstr ""
+msgstr "கோப்பை பதிவிறக்கு"
 
 #: wp-includes/script-loader.php:340
 msgid "Download Video"
-msgstr ""
+msgstr "காணொளியை பதிவிறக்கு"
 
 #: wp-includes/script-loader.php:341
 msgid "Play/Pause"
@@ -6626,7 +6626,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:501
 msgid "Save Draft"
-msgstr ""
+msgstr "வரைவை சேமி"
 
 #: wp-includes/script-loader.php:503
 msgid "Public"
@@ -7592,15 +7592,15 @@ msgstr "கடவுச்சொல்கள் சேரவில்லை"
 
 #: wp-login.php:641
 msgid "Password Reset"
-msgstr "கடவுச்சொல் மீட்டமைப்பு"
+msgstr "கடவுச்சொல் மீளமைப்பு"
 
 #: wp-login.php:641
 msgid "Your password has been reset."
-msgstr "உங்களது கடவுச்சொல் மீட்டமைக்கப்பட்டது"
+msgstr "உங்களது கடவுச்சொல் மீளமைக்கப்பட்டது"
 
 #: wp-login.php:649 wp-login.php:681
 msgid "Reset Password"
-msgstr ""
+msgstr "கடவுச்சொல் மீளமைவு"
 
 #: wp-login.php:649
 msgid "Enter your new password below."
@@ -7670,7 +7670,7 @@ msgstr "நீங்கள் இப்போது வெளியேற்ற�
 
 #: wp-login.php:871
 msgid "User registration is currently not allowed."
-msgstr ""
+msgstr "பெயர்ப்பதிவிற்கு தற்போது அனுமதியில்லை."
 
 #: wp-login.php:873
 msgid "Check your e-mail for the confirmation link."
@@ -7682,7 +7682,7 @@ msgstr "புதிய கடவுசொல்லிற்கு உங்க�
 
 #: wp-login.php:877
 msgid "Registration complete. Please check your e-mail."
-msgstr ""
+msgstr "பெயர்ப்பதிவு முடிவடைந்தது. உங்களது மின்னஞ்சலை காணவும்."
 
 #: wp-login.php:879
 msgid ""
@@ -7784,7 +7784,7 @@ msgstr ""
 
 #: wp-signup.php:256
 msgid "Get <em>another</em> %s site in seconds"
-msgstr ""
+msgstr "<em>மற்றொரு</em> %s தளத்தை நொடியினில் பெற்றிடுங்கள்."
 
 #: wp-signup.php:259
 msgid "There was a problem, please correct the form below and try again."
@@ -7934,7 +7934,7 @@ msgstr ""
 
 #: wp-signup.php:670
 msgid "Registration has been disabled."
-msgstr ""
+msgstr "பெயர்ப்பதிவு செயலிழக்கப்பட்டுள்ளது"
 
 #: wp-signup.php:673
 msgid ""
@@ -7943,25 +7943,27 @@ msgstr ""
 
 #: wp-signup.php:681
 msgid "User registration has been disabled."
-msgstr ""
+msgstr "பயனர் பெயர்ப்பதிவு செயலிழக்கப்பட்டுள்ளது"
 
 #: wp-signup.php:687
 msgid "Site registration has been disabled."
-msgstr ""
+msgstr "தளத்தின் பெயர்ப்பதிவு செயலிழக்கப்பட்டுள்ளது"
 
 #: wp-signup.php:706
 msgid "Sorry, new registrations are not allowed at this time."
-msgstr ""
+msgstr "மன்னிக்கவும், புதிய பெயர்பதிவுகளுக்கு தற்போது அனுமதியில்லை."
 
 #: wp-signup.php:708
 msgid "You are logged in already. No need to register again!"
-msgstr ""
+msgstr "நீங்கள் ஏற்கெனவே உள்நுழைத்து உள்ளீர்கள். மீண்டும் பெயர்ப்பதிய தேவையில்லை !"
 
 #: wp-signup.php:714
 msgid ""
 "The site you were looking for, <strong>%s</strong>, does not exist, but you "
 "can create it now!"
 msgstr ""
+"நீங்கள் காண விரும்பும் தளமான <strong>%s</strong> இருக்கவில்லை. ஆனால் அதை நீங்கள் இப்போது "
+"உருவாக்கலாம்."
 
 #: wp-signup.php:716
 msgid "The site you were looking for, <strong>%s</strong>, does not exist."
