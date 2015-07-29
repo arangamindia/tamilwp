@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2015-07-28 16:58+0530\n"
+"PO-Revision-Date: 2015-07-29 17:36+0530\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: tamizh\n"
@@ -123,7 +123,7 @@ msgstr ""
 
 #: wp-includes/admin-bar.php:142
 msgid "Support Forums"
-msgstr ""
+msgstr "உதவி மன்றங்கள்"
 
 #: wp-includes/admin-bar.php:143 wp-login.php:809
 msgid "https://wordpress.org/support/"
@@ -147,7 +147,7 @@ msgstr ""
 
 #: wp-includes/admin-bar.php:240
 msgid "Edit My Profile"
-msgstr ""
+msgstr "எனது சுயவிபர பக்கத்தை திருத்து"
 
 #: wp-includes/admin-bar.php:246 wp-includes/class-wp-admin-bar.php:417
 msgid "Log Out"
@@ -1100,7 +1100,7 @@ msgstr ""
 #: wp-includes/class-wp-customize-panel.php:375
 #: wp-includes/class-wp-customize-panel.php:472
 msgid "Help"
-msgstr ""
+msgstr "உதவி"
 
 #: wp-includes/class-wp-customize-panel.php:434
 msgid "Show advanced menu properties"
@@ -1259,7 +1259,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:825
 msgid "Paragraph"
-msgstr ""
+msgstr "பத்தி"
 
 #: wp-includes/class-wp-editor.php:826 wp-includes/script-loader.php:105
 msgid "Blockquote"
@@ -7259,7 +7259,7 @@ msgstr ""
 
 #: wp-includes/user.php:128
 msgid "<strong>ERROR</strong>: The username field is empty."
-msgstr ""
+msgstr "<strong>ERROR</strong>: The username field is empty."
 
 #: wp-includes/user.php:131
 msgid "<strong>ERROR</strong>: The password field is empty."
@@ -7363,7 +7363,7 @@ msgstr ""
 
 #: wp-includes/user.php:2561
 msgid "<strong>ERROR</strong>: Please enter a username."
-msgstr ""
+msgstr " <strong>பிழை</strong>: ஒரு பயனர் பெயரை கொடுக்கவும்"
 
 #: wp-includes/user.php:2563
 msgid ""
@@ -7379,11 +7379,11 @@ msgstr ""
 
 #: wp-includes/user.php:2571
 msgid "<strong>ERROR</strong>: Please type your e-mail address."
-msgstr ""
+msgstr " <strong>பிழை</strong>: உங்களது மின்னஞ்சலை கொடுக்கவும்"
 
 #: wp-includes/user.php:2573
 msgid "<strong>ERROR</strong>: The email address isn&#8217;t correct."
-msgstr ""
+msgstr "<strong>பிழை</strong>: இந்த மின்னஞ்சல் முகவரி சரியானதல்ல."
 
 #: wp-includes/user.php:2576
 msgid ""
@@ -7740,7 +7740,7 @@ msgstr ""
 
 #: wp-signup.php:112
 msgid "Your address will be %s."
-msgstr ""
+msgstr "உங்கள் முகவரி %s ஆக இருக்கும்."
 
 #: wp-signup.php:112
 msgid ""
@@ -7823,7 +7823,7 @@ msgstr ""
 
 #: wp-signup.php:430
 msgid "Get your own %s account in seconds"
-msgstr ""
+msgstr "உங்களது %s சொந்த கணக்கை நொடியினில் பெற்றிடுங்கள்."
 
 #: wp-signup.php:446
 msgid "Gimme a site!"
