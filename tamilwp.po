@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-01 06:46+0530\n"
+"PO-Revision-Date: 2015-08-01 07:05+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -5578,18 +5578,18 @@ msgstr ""
 #: wp-includes/pluggable.php:1444 wp-includes/pluggable.php:1454
 #: wp-includes/pluggable.php:1579 wp-includes/pluggable.php:1587
 msgid "Website: %1$s (IP: %2$s, %3$s)"
-msgstr ""
+msgstr "வலைத்தளம்: %1$s (இணையமுகவரி: %2$s, %3$s)"
 
 #: wp-includes/pluggable.php:1445 wp-includes/pluggable.php:1455
 #: wp-includes/pluggable.php:1466 wp-includes/pluggable.php:1580
 #: wp-includes/pluggable.php:1588 wp-includes/pluggable.php:1596
 msgid "URL: %s"
-msgstr ""
+msgstr "வலைமுகவரி: %s"
 
 #: wp-includes/pluggable.php:1446 wp-includes/pluggable.php:1456
 #: wp-includes/pluggable.php:1467 wp-includes/pluggable.php:1597
 msgid "Comment: %s"
-msgstr ""
+msgstr "பின்னூட்டம்: %s"
 
 #: wp-includes/pluggable.php:1447
 msgid "You can see all trackbacks on this post here:"
@@ -5646,7 +5646,7 @@ msgstr ""
 
 #: wp-includes/pluggable.php:1480 wp-includes/pluggable.php:1605
 msgid "Delete it: %s"
-msgstr ""
+msgstr "நீக்கி விடு :%s"
 
 #: wp-includes/pluggable.php:1481 wp-includes/pluggable.php:1606
 msgid "Spam it: %s"
@@ -5931,7 +5931,7 @@ msgstr[1] ""
 #: wp-includes/post.php:126
 msgctxt "post"
 msgid "Draft"
-msgstr ""
+msgstr " வரைவு"
 
 #: wp-includes/post.php:129
 msgid "Draft <span class=\"count\">(%s)</span>"
@@ -5942,7 +5942,7 @@ msgstr[1] ""
 #: wp-includes/post.php:133
 msgctxt "post"
 msgid "Pending"
-msgstr ""
+msgstr "நிலுவையிலுள்ளது"
 
 #: wp-includes/post.php:136
 msgid "Pending <span class=\"count\">(%s)</span>"
@@ -6026,23 +6026,23 @@ msgstr ""
 
 #: wp-includes/post.php:1650
 msgid "Add New Post"
-msgstr ""
+msgstr "புதிய இடுகையை சேர்"
 
 #: wp-includes/post.php:1650
 msgid "Add New Page"
-msgstr ""
+msgstr "புதிய பக்கத்தை சேர்"
 
 #: wp-includes/post.php:1651
 msgid "Edit Post"
-msgstr ""
+msgstr "இடுகையை திருத்து"
 
 #: wp-includes/post.php:1651
 msgid "Edit Page"
-msgstr ""
+msgstr "பக்கத்தை திருத்து"
 
 #: wp-includes/post.php:1652
 msgid "New Page"
-msgstr ""
+msgstr "புதிய பக்கம்"
 
 #: wp-includes/post.php:1653
 msgid "View Post"
@@ -6229,7 +6229,7 @@ msgstr ""
 
 #: wp-includes/revision.php:32
 msgid "Content"
-msgstr ""
+msgstr "உள்ளடக்கம்"
 
 #: wp-includes/revision.php:33
 msgid "Excerpt"
@@ -6331,7 +6331,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:118
 msgid "Code"
-msgstr ""
+msgstr "குறியீடு"
 
 #: wp-includes/script-loader.php:119
 msgid "Close code tag"
@@ -6347,7 +6347,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:138 wp-includes/script-loader.php:285
 msgid "Dismiss"
-msgstr ""
+msgstr "நிராகரி"
 
 #: wp-includes/script-loader.php:157
 msgid ""
@@ -6361,7 +6361,7 @@ msgstr "அடுத்த &gt;"
 
 #: wp-includes/script-loader.php:253
 msgid "&lt; Prev"
-msgstr ""
+msgstr "&lt; முந்தைய"
 
 #: wp-includes/script-loader.php:254
 msgid "Image"
@@ -6547,7 +6547,7 @@ msgstr "கடவுச்சொல்லை மறைத்திடு"
 
 #: wp-includes/script-loader.php:397 wp-includes/script-loader.php:621
 msgid "No results found."
-msgstr ""
+msgstr "முடிவுகள் ஏதும் கிடைக்கவில்லை."
 
 #. translators: If your word count is based on single characters (East Asian
 #. characters), 		   enter 'characters', or 'all' to include spaces. Otherwise,
@@ -6583,7 +6583,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:434
 msgid "Allowed Files"
-msgstr ""
+msgstr "அனுமதிக்கப்பட்ட கோப்புகள்"
 
 #: wp-includes/script-loader.php:472
 msgid "Approve and Reply"
@@ -7519,7 +7519,7 @@ msgstr " ஒரு வடிவமைப்பு கோப்பை உரு�
 
 #: wp-login.php:102
 msgid "Powered by WordPress"
-msgstr ""
+msgstr "வோர்ட்ப்ரெஸ் மூலம் இயங்குகிறது."
 
 #: wp-login.php:219
 msgid "Are you lost?"
