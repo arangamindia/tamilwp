@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-01 07:05+0530\n"
+"PO-Revision-Date: 2015-08-01 08:07+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -6527,7 +6527,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:377
 msgid "Your new password has not been saved."
-msgstr ""
+msgstr "உங்களது புதிய கடவுச்சொல் சேமிக்க படவில்லை."
 
 #: wp-includes/script-loader.php:378
 msgid "Show"
@@ -6618,7 +6618,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:496
 msgid "No more comments found."
-msgstr ""
+msgstr "மேலும் பின்நூட்டனால் ஏதும் கிடைக்கவில்லை."
 
 #: wp-includes/script-loader.php:497
 msgid "Publish"
@@ -7093,6 +7093,8 @@ msgstr ""
 #: wp-includes/theme-compat/comments.php:17
 msgid "This post is password protected. Enter the password to view comments."
 msgstr ""
+"இந்த இடுகை கடவுச்சொல்லால் பாதுகாக்கப்பட்டுள்ளது. கடவுச்சொல்லை கொடுத்து நுழைந்து "
+"பின்னூட்டங்களை காணவும்."
 
 #. translators: %s: post title
 #: wp-includes/theme-compat/comments.php:30
@@ -7112,7 +7114,7 @@ msgstr "பின்னூட்டங்கள் மூடப்பட்ட�
 
 #: wp-includes/theme-compat/comments.php:82
 msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
-msgstr ""
+msgstr "<a href=\"%1$s\">%2$s</a>-ஆக உள்நுழைந்து உள்ளீர்கள்."
 
 #: wp-includes/theme-compat/comments.php:82
 msgid "Log out of this account"
@@ -7382,6 +7384,8 @@ msgid ""
 "<strong>ERROR</strong>: This username is invalid because it uses illegal "
 "characters. Please enter a valid username."
 msgstr ""
+"இந்த பயனர்பெயர் செல்லுபடியாகாது ஏனெனில் இது அனுமதிக்கபடாத எழுத்துக்கள்  உள்ளன. "
+"தயவுசெய்து செல்லுபடியான பயனர்பெயரை கொடுக்கவும்."
 
 #: wp-includes/user.php:2566
 msgid ""
@@ -7904,6 +7908,8 @@ msgid ""
 "Wait a little longer. Sometimes delivery of email can be delayed by "
 "processes outside of our control."
 msgstr ""
+"இன்னும் கொஞ்ச நேரம் காத்திருக்கவும். மின்னஞ்சல் வந்தடைய தாமதம் ஆகலாம், அது எங்களது "
+"கட்டுபாட்டில் இல்லை."
 
 #: wp-signup.php:636
 msgid ""
