@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-01 08:07+0530\n"
+"PO-Revision-Date: 2015-08-01 08:49+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -404,7 +404,7 @@ msgstr ""
 #: wp-includes/class-wp-customize-control.php:689
 #: wp-includes/class-wp-customize-control.php:694
 msgid "Select File"
-msgstr ""
+msgstr "கோப்பை தேர்ந்தெடு"
 
 #: wp-includes/class-wp-customize-control.php:690
 msgid "Change File"
@@ -430,7 +430,7 @@ msgstr ""
 #: wp-includes/class-wp-customize-control.php:918
 #: wp-includes/class-wp-customize-control.php:923
 msgid "Select Image"
-msgstr ""
+msgstr "பிம்பத்தை தேர்ந்தெடு"
 
 #: wp-includes/class-wp-customize-control.php:919
 msgid "Change Image"
@@ -2601,7 +2601,7 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:2739
 msgid "Sorry, you do not have the right to delete this page."
-msgstr ""
+msgstr "மன்னிக்கவும், இந்த பக்கத்தை நீக்க உங்களுக்கு அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2744
 msgid "Failed to delete the page."
@@ -2609,7 +2609,7 @@ msgstr "பக்கத்தை நீக்க இயலவில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2801
 msgid "Sorry, you do not have the right to edit this page."
-msgstr ""
+msgstr "மன்னிக்கவும், இந்த இடுகையைபக்கத்தை திருத்த உங்களுக்கு அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2903
 #: wp-includes/class-wp-xmlrpc-server.php:4403
@@ -2740,12 +2740,12 @@ msgstr "மனிக்கவும், அப்படி ஒரு இடு�
 #: wp-includes/class-wp-xmlrpc-server.php:4571
 #: wp-includes/class-wp-xmlrpc-server.php:5067
 msgid "Sorry, you do not have the right to edit this post."
-msgstr ""
+msgstr "மன்னிக்கவும், இந்த இடுகையை திருத்த உங்களுக்கு அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4574
 #: wp-includes/class-wp-xmlrpc-server.php:5241
 msgid "Sorry, you do not have the right to publish this post."
-msgstr ""
+msgstr "மன்னிக்கவும், இந்த இடுகையை பிரசுரிக்க உங்களுக்கு அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4588
 msgid ""
@@ -2754,7 +2754,7 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:4639
 msgid "Sorry, you do not have the right to delete this post."
-msgstr ""
+msgstr "மன்னிக்கவும், இந்த இடுகையை நீக்க உங்களுக்கு அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4644
 msgid ""
@@ -2790,7 +2790,7 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:5239
 msgid "Sorry, you do not have the right to publish this page."
-msgstr ""
+msgstr "மன்னிக்கவும், இந்த பக்கத்தை பிரசுரிக்க உங்களுக்கு அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5278
 msgid "Sorry, your entry could not be edited. Something wrong happened."
@@ -3017,7 +3017,7 @@ msgstr ""
 
 #: wp-includes/comment.php:1026
 msgid "Unapproved"
-msgstr ""
+msgstr "அங்கீகரிக்கபடாதது"
 
 #. translators: comment status
 #: wp-includes/comment.php:1028
@@ -3057,7 +3057,7 @@ msgstr ""
 
 #: wp-includes/cron.php:370
 msgid "Twice Daily"
-msgstr ""
+msgstr "தினமும் இருமுறை"
 
 #: wp-includes/cron.php:371
 msgid "Once Daily"
@@ -3200,23 +3200,23 @@ msgstr ""
 
 #: wp-includes/default-widgets.php:348
 msgid "Select Year"
-msgstr ""
+msgstr "வருடத்தை தேர்ந்தெடு"
 
 #: wp-includes/default-widgets.php:351
 msgid "Select Month"
-msgstr ""
+msgstr "மாதத்தை தேர்ந்தெடு"
 
 #: wp-includes/default-widgets.php:354
 msgid "Select Day"
-msgstr ""
+msgstr "நாளை தேர்ந்தெடு"
 
 #: wp-includes/default-widgets.php:357
 msgid "Select Week"
-msgstr ""
+msgstr "வாரத்தை தேர்ந்தெடு"
 
 #: wp-includes/default-widgets.php:360
 msgid "Select Post"
-msgstr ""
+msgstr "இடுகையை தேர்ந்தெடு"
 
 #: wp-includes/default-widgets.php:421 wp-includes/default-widgets.php:762
 msgid "Display as dropdown"
@@ -4175,7 +4175,7 @@ msgstr ""
 #: wp-includes/locale.php:100 wp-includes/locale.php:110
 #: wp-includes/locale.php:123
 msgid "Sunday"
-msgstr ""
+msgstr "ஞாயிறு"
 
 #. translators: weekday
 #: wp-includes/locale.php:101 wp-includes/locale.php:111
@@ -4187,7 +4187,7 @@ msgstr ""
 #: wp-includes/locale.php:102 wp-includes/locale.php:112
 #: wp-includes/locale.php:125
 msgid "Tuesday"
-msgstr ""
+msgstr "செவ்வாய்"
 
 #. translators: weekday
 #: wp-includes/locale.php:103 wp-includes/locale.php:113
@@ -4251,7 +4251,7 @@ msgstr ""
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/locale.php:123
 msgid "Sun"
-msgstr ""
+msgstr "ஞாயிறு"
 
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/locale.php:124
@@ -4261,7 +4261,7 @@ msgstr ""
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/locale.php:125
 msgid "Tue"
-msgstr ""
+msgstr "செவ்"
 
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/locale.php:126
@@ -4490,7 +4490,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:208
 msgid "Select Files"
-msgstr ""
+msgstr "கோப்புகளை தேர்ந்தெடு"
 
 #: wp-includes/media-template.php:236
 msgid "Maximum upload file size: %s."
@@ -4510,7 +4510,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:263
 msgid "Uploading"
-msgstr ""
+msgstr "பதிவேற்றப்படுகிறது"
 
 #: wp-includes/media-template.php:264
 msgid "Dismiss Errors"
@@ -4531,7 +4531,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:341 wp-includes/media-template.php:504
 msgid "Saved."
-msgstr ""
+msgstr "சேமிக்கபட்டது"
 
 #: wp-includes/media-template.php:344
 msgid "File name:"
@@ -4898,7 +4898,7 @@ msgstr ""
 #: wp-includes/media.php:3033 wp-includes/script-loader.php:394
 #: wp-includes/script-loader.php:499
 msgid "Update"
-msgstr ""
+msgstr "மேம்படுத்து"
 
 #. translators: This is a would-be plural string used in the media manager.
 #. If there is not a word you can use in your language to avoid issues with
@@ -4918,7 +4918,7 @@ msgstr ""
 
 #: wp-includes/media.php:3046
 msgid "Upload Images"
-msgstr ""
+msgstr "பிம்பங்களை பதிவேற்று"
 
 #: wp-includes/media.php:3049
 msgid "Media Library"
@@ -4962,7 +4962,7 @@ msgstr ""
 
 #: wp-includes/media.php:3059
 msgid "Unattached"
-msgstr ""
+msgstr "இணைக்கபடாதது"
 
 #: wp-includes/media.php:3060
 msgctxt "noun"
@@ -4971,11 +4971,11 @@ msgstr ""
 
 #: wp-includes/media.php:3061
 msgid "Uploaded to this page"
-msgstr ""
+msgstr "இந்த பக்கத்திற்கு பதிவேற்றப்பட்டது."
 
 #: wp-includes/media.php:3061
 msgid "Uploaded to this post"
-msgstr ""
+msgstr "இந்த இடுகைக்கு பதிவேற்றப்பட்டது."
 
 #: wp-includes/media.php:3062
 msgid ""
@@ -5275,7 +5275,7 @@ msgstr ""
 
 #: wp-includes/ms-functions.php:521 wp-includes/user.php:1897
 msgid "Sorry, that username already exists!"
-msgstr ""
+msgstr "மன்னிக்கவும், அந்த பயனர்பெயர் ஏற்கெனவே பயன்பாட்டில் உள்ளது"
 
 #: wp-includes/ms-functions.php:525 wp-includes/user.php:1953
 msgid "Sorry, that email address is already used!"
@@ -5323,7 +5323,7 @@ msgstr ""
 
 #: wp-includes/ms-functions.php:678 wp-includes/ms-functions.php:1152
 msgid "Sorry, that site already exists!"
-msgstr ""
+msgstr "மன்னிக்கவும், அந்த தளம் ஏற்கெனவே பயன்பாட்டில் உள்ளது!"
 
 #: wp-includes/ms-functions.php:682
 msgid "Sorry, that site is reserved!"
@@ -5365,7 +5365,7 @@ msgstr ""
 
 #: wp-includes/ms-functions.php:1004
 msgid "The user is already active."
-msgstr ""
+msgstr "அந்த பெயருக்கு அனுமதியில்லை."
 
 #: wp-includes/ms-functions.php:1006
 msgid "The site is already active."
@@ -7786,7 +7786,7 @@ msgstr "இல்லை"
 
 #: wp-signup.php:182
 msgid "(Must be at least 4 characters, letters and numbers only.)"
-msgstr ""
+msgstr "(குறைந்தபட்சம் நான்கு எழுத்துக்கள், அகரவரிசை மற்றும் எண்கள்  மட்டும்.)"
 
 #: wp-signup.php:185
 msgid "Email&nbsp;Address:"
