@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-02 19:14+0530\n"
+"PO-Revision-Date: 2015-08-02 19:18+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -30,7 +30,7 @@ msgstr ""
 
 #: wp-activate.php:92 wp-activate.php:111
 msgid "Your account is now active!"
-msgstr ""
+msgstr "உங்களது கணக்கு இப்போது செயல்பாட்டில் உள்ளது!"
 
 #: wp-activate.php:96
 msgid ""
@@ -2587,7 +2587,7 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:3444
 msgid "You must be registered to comment"
-msgstr ""
+msgstr "நீங்கள் பின்னூட்டமிட பெயர்பதிந்திருக்க் வேண்டும்"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3488
 msgid "Comment author name and email are required"
@@ -2614,7 +2614,7 @@ msgstr ""
 #: wp-includes/class-wp-xmlrpc-server.php:3822 wp-includes/class-wp-xmlrpc-server.php:3870
 #: wp-includes/class-wp-xmlrpc-server.php:5665
 msgid "You do not have permission to upload files."
-msgstr ""
+msgstr "உங்களுக்கு கோப்புகளை பதிவேற்ற அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4002
 msgid "Sorry, you are not allowed to edit this post type."
@@ -2899,7 +2899,7 @@ msgstr ""
 
 #: wp-includes/comment-template.php:2258
 msgid "Your email address will not be published."
-msgstr ""
+msgstr "உங்களது மின்னஞ்சல் பிரசுரிக்கப்பட மாட்டாது."
 
 #: wp-includes/comment-template.php:2266
 msgid "Cancel reply"
@@ -3176,7 +3176,7 @@ msgstr ""
 
 #: wp-includes/default-widgets.php:782
 msgid "Your site&#8217;s most recent Posts."
-msgstr ""
+msgstr "உங்களது தளத்தின் அண்மைய இடுகைகள்"
 
 #: wp-includes/default-widgets.php:783 wp-includes/default-widgets.php:816
 msgid "Recent Posts"
@@ -3192,7 +3192,7 @@ msgstr ""
 
 #: wp-includes/default-widgets.php:927
 msgid "Your site&#8217;s most recent comments."
-msgstr ""
+msgstr "உங்களது தளத்தின் அண்மைய பின்னூட்டங்கள்"
 
 #: wp-includes/default-widgets.php:928 wp-includes/default-widgets.php:994
 msgid "Recent Comments"
@@ -6180,7 +6180,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:132 wp-includes/script-loader.php:464
 msgid "You do not have permission to do that."
-msgstr ""
+msgstr "உங்களுக்கு அதை செய்ய அனுமதியில்லை."
 
 #: wp-includes/script-loader.php:133 wp-includes/script-loader.php:465
 msgid "An unidentified error has occurred."
