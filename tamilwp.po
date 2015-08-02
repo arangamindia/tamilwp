@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-02 20:01+0530\n"
+"PO-Revision-Date: 2015-08-02 21:06+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -406,7 +406,7 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-control.php:695
 msgid "Choose File"
-msgstr ""
+msgstr "கோப்பை தேர்ந்தெடு"
 
 #: wp-includes/class-wp-customize-control.php:918
 #: wp-includes/class-wp-customize-control.php:923
@@ -1677,7 +1677,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:945
 msgid "Check Spelling"
-msgstr ""
+msgstr "எழுத்துக்கோர்வை சரிபார்த்திடு"
 
 #: wp-includes/class-wp-editor.php:946
 msgctxt "spellcheck"
@@ -1824,7 +1824,7 @@ msgstr ""
 #: wp-includes/media-template.php:579 wp-includes/media-template.php:837
 #: wp-includes/media-template.php:902
 msgid "Caption"
-msgstr ""
+msgstr "தலைப்பு"
 
 #: wp-includes/class-wp-editor.php:985 wp-includes/media-template.php:612
 msgid "Alignment"
@@ -2591,7 +2591,7 @@ msgstr "நீங்கள் பின்னூட்டமிட பெயர�
 
 #: wp-includes/class-wp-xmlrpc-server.php:3488
 msgid "Comment author name and email are required"
-msgstr ""
+msgstr "பின்னூட்டமிட்டவர் பெயர் மற்றும் மின்னஞ்சல் முகவரி தேவைப்படுகிறது"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3490
 msgid "A valid email address is required"
@@ -2766,7 +2766,7 @@ msgstr "ஒரு பின்னூட்டம்"
 #: wp-includes/comment-template.php:945 wp-includes/comment-template.php:2253
 msgctxt "noun"
 msgid "Comment"
-msgstr ""
+msgstr "பின்னூட்டம்"
 
 #: wp-includes/comment-template.php:946
 msgid "Trackback"
@@ -2903,7 +2903,7 @@ msgstr "உங்களது மின்னஞ்சல் பிரசுர�
 
 #: wp-includes/comment-template.php:2266
 msgid "Cancel reply"
-msgstr ""
+msgstr "பதிலை ரத்துசெய்"
 
 #: wp-includes/comment-template.php:2267
 msgid "Post Comment"
@@ -3230,7 +3230,7 @@ msgstr ""
 
 #: wp-includes/default-widgets.php:1227
 msgid "Untitled"
-msgstr ""
+msgstr "பெயரிடப்படாதது"
 
 #: wp-includes/default-widgets.php:1306
 msgid "RSS Error: %s"
@@ -3822,7 +3822,7 @@ msgstr ""
 #: wp-includes/general-template.php:1238
 msgctxt "post format archive title"
 msgid "Chats"
-msgstr ""
+msgstr "அரட்டைகள்"
 
 #: wp-includes/general-template.php:1241
 msgid "Archives: %s"
@@ -4450,7 +4450,7 @@ msgstr "பதிவேற்றியது "
 
 #: wp-includes/media-template.php:418
 msgid "Uploaded To"
-msgstr ""
+msgstr "பதிவேற்றிய இடம்"
 
 #: wp-includes/media-template.php:430
 msgid "View attachment page"
@@ -4462,7 +4462,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:437 wp-includes/media-template.php:539
 msgid "Untrash"
-msgstr ""
+msgstr "குப்பையிலிருந்து நீக்கு"
 
 #: wp-includes/media-template.php:439 wp-includes/media-template.php:541
 msgctxt "verb"
@@ -4480,7 +4480,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:484
 msgid "Caption this image&hellip;"
-msgstr ""
+msgstr "இந்த பிம்பத்திற்கு தலைப்பிடு&hellip;"
 
 #: wp-includes/media-template.php:488
 msgid "Describe this video&hellip;"
@@ -4869,7 +4869,7 @@ msgstr ""
 
 #: wp-includes/media.php:3066
 msgid "Cancel Selection"
-msgstr ""
+msgstr "தேர்வை ரத்துசெய்"
 
 #: wp-includes/media.php:3067
 msgid "Trash Selected"
@@ -4877,7 +4877,7 @@ msgstr ""
 
 #: wp-includes/media.php:3068
 msgid "Untrash Selected"
-msgstr ""
+msgstr "தேர்வை குப்பையிலிருந்து நீக்கு"
 
 #: wp-includes/media.php:3069
 msgid "Delete Selected"
@@ -5949,7 +5949,7 @@ msgstr ""
 
 #: wp-includes/post.php:1662 wp-includes/script-loader.php:612
 msgid "Use as featured image"
-msgstr ""
+msgstr "சிறப்பான பிம்பமாக பயன்படுத்து"
 
 #: wp-includes/post.php:2477
 msgid "Images"
