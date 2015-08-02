@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-02 19:18+0530\n"
+"PO-Revision-Date: 2015-08-02 20:01+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -263,7 +263,7 @@ msgstr "தேடு"
 #. translators: 1: error message, 2: line number
 #: wp-includes/atomlib.php:144
 msgid "XML Error: %1$s at line %2$s"
-msgstr ""
+msgstr "XML பிழை: %1$s . வரி எண்: %2$s"
 
 #: wp-includes/author-template.php:62
 msgid "Use <code>get_the_author()</code> instead if you do not want the value echoed."
@@ -1351,7 +1351,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:856
 msgid "Undo"
-msgstr ""
+msgstr "மீளமை"
 
 #: wp-includes/class-wp-editor.php:857
 msgid "Redo"
@@ -2198,7 +2198,7 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:250
 msgid "XML-RPC services are disabled on this site."
-msgstr ""
+msgstr "XML-RPC சேவைகள் இந்த தளத்தில் முடக்கப்பட்டுள்ளன."
 
 #: wp-includes/class-wp-xmlrpc-server.php:257
 msgid "Incorrect username or password."
@@ -2366,7 +2366,7 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:1294 wp-includes/class-wp-xmlrpc-server.php:4790
 msgid "You are not allowed to create posts as this user."
-msgstr ""
+msgstr "இந்த பயனாராக நீங்கள் இடுகைகளை உருவாக்க அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1299 wp-includes/class-wp-xmlrpc-server.php:4801
 msgid "Invalid author ID."
@@ -2566,7 +2566,7 @@ msgstr ""
 #: wp-includes/class-wp-xmlrpc-server.php:3281 wp-includes/class-wp-xmlrpc-server.php:3342
 #: wp-includes/class-wp-xmlrpc-server.php:3348
 msgid "You are not allowed to moderate comments on this site."
-msgstr ""
+msgstr "இந்த தளத்தில் பின்னூட்டங்களை மட்டுறுத்த உங்களுக்கு அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3169 wp-includes/class-wp-xmlrpc-server.php:3278
 #: wp-includes/class-wp-xmlrpc-server.php:3345
@@ -2601,15 +2601,15 @@ msgstr ""
 #: wp-includes/class-wp-xmlrpc-server.php:3644 wp-includes/class-wp-xmlrpc-server.php:3676
 #: wp-includes/class-wp-xmlrpc-server.php:3914
 msgid "You are not allowed access to details about this site."
-msgstr ""
+msgstr "இந்த தளத்தின் விபரங்களை காண உங்களுக்கு அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3574
 msgid "You are not allowed access to details about comments."
-msgstr ""
+msgstr "பின்னூட்டங்களின் விபரங்களை காண உங்களுக்கு அனுமதியில்லை"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3770
 msgid "You are not allowed to update options."
-msgstr ""
+msgstr "தெரிவுகளை மேம்படுத்த உங்களுக்கு அனுமதியில்லை"
 
 #: wp-includes/class-wp-xmlrpc-server.php:3822 wp-includes/class-wp-xmlrpc-server.php:3870
 #: wp-includes/class-wp-xmlrpc-server.php:5665
@@ -2680,7 +2680,7 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:4794
 msgid "You are not allowed to create pages as this user."
-msgstr ""
+msgstr "இந்த பயனாராக நீங்கள் பக்கங்களை உருவாக்க அனுமதியில்லை"
 
 #: wp-includes/class-wp-xmlrpc-server.php:5126
 msgid "You are not allowed to change the post author as this user."
@@ -3532,7 +3532,7 @@ msgstr ""
 
 #: wp-includes/functions.php:1848 wp-includes/functions.php:1984
 msgid "Unable to create directory %s. Is its parent directory writable by the server?"
-msgstr ""
+msgstr "%s கோப்பகத்தை உருவாக்க முடியவில்லை. அதன் மேல்நிலை கோப்பகத்தை சேவையகத்தினால் எழுத முடியுமா?"
 
 #: wp-includes/functions.php:1948
 msgid "Empty filename"
@@ -3548,7 +3548,7 @@ msgstr ""
 
 #: wp-includes/functions.php:2330
 msgid "You are attempting to log out of %s"
-msgstr ""
+msgstr "நீங்கள் %s-இல் இருந்து வெளியேற முயற்சிக்கிறீர்கள். "
 
 #: wp-includes/functions.php:2332
 msgid "Do you really want to <a href='%s'>log out</a>?"
@@ -5386,7 +5386,7 @@ msgstr ""
 
 #: wp-includes/ms-load.php:432
 msgid "What do I do now?"
-msgstr ""
+msgstr "இப்போது நான் என்ன செய்ய?"
 
 #: wp-includes/ms-load.php:433
 msgid ""
@@ -5485,7 +5485,7 @@ msgstr "மின்னஞ்சல்: %s"
 
 #: wp-includes/pluggable.php:1468
 msgid "You can see all comments on this post here:"
-msgstr ""
+msgstr "இந்த இடுகையின் பின்னூட்டங்கள் அனைத்தையும் இங்கு காணலாம்.:"
 
 #. translators: 1: blog name, 2: post title
 #: wp-includes/pluggable.php:1470
@@ -6320,7 +6320,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:344
 msgid "Turn off Fullscreen"
-msgstr ""
+msgstr "முழு பக்க பயன்பாட்டை அணைத்துவிடு"
 
 #: wp-includes/script-loader.php:345
 msgid "Go Fullscreen"
