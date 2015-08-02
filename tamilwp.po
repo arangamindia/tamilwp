@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-02 18:21+0530\n"
+"PO-Revision-Date: 2015-08-02 18:40+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -203,7 +203,7 @@ msgstr "சொருகிகள்"
 
 #: wp-includes/admin-bar.php:416
 msgid "Plugins"
-msgstr ""
+msgstr "சொருகிகள்"
 
 #: wp-includes/admin-bar.php:461 wp-includes/post.php:1652
 msgid "New Post"
@@ -215,7 +215,7 @@ msgstr ""
 
 #: wp-includes/admin-bar.php:504
 msgid "Shortlink"
-msgstr ""
+msgstr "சிறுஞ்சுட்டி"
 
 #: wp-includes/admin-bar.php:613
 msgctxt "add new from admin bar"
@@ -873,7 +873,7 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-nav-menus.php:345
 msgid "Taxonomy"
-msgstr ""
+msgstr "வகைப்பாடு"
 
 #: wp-includes/class-wp-customize-nav-menus.php:346
 msgid "Post Type"
@@ -2044,11 +2044,11 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:1047
 msgid "Ctrl + Alt + letter:"
-msgstr ""
+msgstr "Ctrl + Alt + எழுத்து"
 
 #: wp-includes/class-wp-editor.php:1048
 msgid "Shift + Alt + letter:"
-msgstr ""
+msgstr "Shift  + Alt + எழுத்து"
 
 #: wp-includes/class-wp-editor.php:1049
 msgid "Cmd + letter:"
@@ -2060,11 +2060,11 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:1051
 msgid "Letter"
-msgstr ""
+msgstr "எழுத்து"
 
 #: wp-includes/class-wp-editor.php:1052
 msgid "Action"
-msgstr ""
+msgstr "செயல்"
 
 #: wp-includes/class-wp-editor.php:1054
 msgid ""
@@ -2438,11 +2438,11 @@ msgstr ""
 #: wp-includes/taxonomy.php:2889 wp-includes/taxonomy.php:3113
 #: wp-includes/taxonomy.php:3444
 msgid "Invalid taxonomy"
-msgstr ""
+msgstr "செல்லுபடியாகாத வகைப்பாடு"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1820
 msgid "You are not allowed to create terms in this taxonomy."
-msgstr ""
+msgstr "இந்த வகைப்பாட்டில் சொற்களை சேர்க்க உங்களுக்கு அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1829 wp-includes/class-wp-xmlrpc-server.php:1926
 msgid "The term name cannot be empty."
@@ -2450,7 +2450,7 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:1833
 msgid "This taxonomy is not hierarchical."
-msgstr ""
+msgstr "இந்த வகைப்பாடு படிநிலை வடிவத்தில் இல்லை"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1842 wp-includes/class-wp-xmlrpc-server.php:1940
 #: wp-includes/taxonomy.php:2913 wp-includes/taxonomy.php:3482
@@ -2463,11 +2463,11 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:1907
 msgid "You are not allowed to edit terms in this taxonomy."
-msgstr ""
+msgstr "இந்த வகைப்பாட்டில் சொற்களை திருத்த உங்களுக்கு அனுமதியில்லை"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1931
 msgid "This taxonomy is not hierarchical so you can't set a parent."
-msgstr ""
+msgstr "இந்த வகைப்பாடு படிநிலையில் இல்லை, அதனால் இதற்கான மேற்படியை  உங்களால் அமைக்க இயலாது."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1957
 msgid "Sorry, editing the term failed."
@@ -2475,7 +2475,7 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:2003
 msgid "You are not allowed to delete terms in this taxonomy."
-msgstr ""
+msgstr "இந்த வகைப்பாட்டில் சொற்களை நீக்க உங்களுக்கு அனுமதியில்லை"
 
 #: wp-includes/class-wp-xmlrpc-server.php:2019
 msgid "Sorry, deleting the term failed."
@@ -2484,7 +2484,7 @@ msgstr ""
 #: wp-includes/class-wp-xmlrpc-server.php:2074 wp-includes/class-wp-xmlrpc-server.php:2132
 #: wp-includes/class-wp-xmlrpc-server.php:2227
 msgid "You are not allowed to assign terms in this taxonomy."
-msgstr ""
+msgstr "இந்த வகைப்பாட்டில் சொற்களை அமைக்க உங்களுக்கு அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2357
 msgid "Sorry, you cannot edit users."
@@ -3274,7 +3274,7 @@ msgstr ""
 
 #: wp-includes/default-widgets.php:1467
 msgid "Taxonomy:"
-msgstr ""
+msgstr "வகைப்பாடு:"
 
 #: wp-includes/default-widgets.php:1499
 msgid "Add a custom menu to your sidebar."
@@ -4573,7 +4573,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:715
 msgid "Gallery Settings"
-msgstr ""
+msgstr "காட்சியக அமைப்புகள்"
 
 #: wp-includes/media-template.php:740
 msgid "Columns"
@@ -4798,7 +4798,7 @@ msgstr ""
 
 #: wp-includes/media.php:3051
 msgid "Create a new gallery"
-msgstr ""
+msgstr "புதிய காட்சியகத்தை உண்டாக்கு"
 
 #: wp-includes/media.php:3052
 msgid "Create a new playlist"
@@ -4905,31 +4905,31 @@ msgstr ""
 
 #: wp-includes/media.php:3088
 msgid "Create Gallery"
-msgstr ""
+msgstr "காட்சியகத்தை உண்டாக்கு"
 
 #: wp-includes/media.php:3089
 msgid "Edit Gallery"
-msgstr ""
+msgstr "காட்சியகத்தை திருத்து"
 
 #: wp-includes/media.php:3090
 msgid "&#8592; Cancel Gallery"
-msgstr ""
+msgstr "&#8592; காட்சியகத்தை நிராகரி"
 
 #: wp-includes/media.php:3091
 msgid "Insert gallery"
-msgstr ""
+msgstr "காட்சியகத்தை நுழைத்திடு"
 
 #: wp-includes/media.php:3092
 msgid "Update gallery"
-msgstr ""
+msgstr "காட்சியகத்தை மேம்படுத்து"
 
 #: wp-includes/media.php:3093
 msgid "Add to gallery"
-msgstr ""
+msgstr "காட்சியகத்தில் சேர்"
 
 #: wp-includes/media.php:3094
 msgid "Add to Gallery"
-msgstr ""
+msgstr "காட்சியகத்தில் சேர்"
 
 #: wp-includes/media.php:3095
 msgid "Reverse order"
@@ -4945,7 +4945,7 @@ msgstr ""
 
 #: wp-includes/media.php:3100 wp-includes/media.php:3117 wp-includes/media.php:3123
 msgid "Cancel Edit"
-msgstr ""
+msgstr "திருத்தத்தை நிராகரி"
 
 #: wp-includes/media.php:3105
 msgid "Select and Crop"
@@ -5597,7 +5597,7 @@ msgstr "அரட்டை"
 #: wp-includes/post-formats.php:93
 msgctxt "Post format"
 msgid "Gallery"
-msgstr ""
+msgstr "காட்சியகம்"
 
 #: wp-includes/post-formats.php:94
 msgctxt "Post format"
@@ -6672,7 +6672,7 @@ msgstr ""
 
 #: wp-includes/taxonomy.php:362 wp-includes/taxonomy.php:363
 msgid "Taxonomy names must be between 1 and 32 characters in length."
-msgstr ""
+msgstr "வகைப்பாட்டு பெயர்கள் ஒன்று மற்றும் முப்பத்தி இரண்டு எழுத்துக்குள் இருக்க வேண்டும்"
 
 #: wp-includes/taxonomy.php:497
 msgctxt "taxonomy general name"
@@ -6797,11 +6797,11 @@ msgstr ""
 
 #: wp-includes/taxonomy.php:2968
 msgid "A term with the name provided already exists with this parent."
-msgstr ""
+msgstr "இந்த சொல் ஏற்கனவே இந்த வகைப்பாட்டின் மேற்படியில்  உள்ளது."
 
 #: wp-includes/taxonomy.php:2971
 msgid "A term with the name provided already exists in this taxonomy."
-msgstr ""
+msgstr "இந்த சொல் ஏற்கனவே இந்த வகைப்பாட்டில் உள்ளது."
 
 #: wp-includes/taxonomy.php:2979
 msgid "Could not insert term into the database"
@@ -6813,7 +6813,7 @@ msgstr ""
 
 #: wp-includes/taxonomy.php:3250
 msgid "Invalid Taxonomy"
-msgstr ""
+msgstr "செல்லுபடியாகாத வகைப்பாடு"
 
 #: wp-includes/taxonomy.php:3539
 msgid "The slug &#8220;%s&#8221; is already in use by another term"
@@ -7080,8 +7080,8 @@ msgstr "%d வோர்ட்பிரஸ் மேம்பாடு"
 #: wp-includes/update.php:559
 msgid "%d Plugin Update"
 msgid_plural "%d Plugin Updates"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%d  சொருகி மேம்பாடு"
+msgstr[1] "%d  சொருகி மேம்பாடுகள்"
 
 #: wp-includes/update.php:561
 msgid "%d Theme Update"
