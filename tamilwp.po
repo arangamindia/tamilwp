@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-02 18:40+0530\n"
+"PO-Revision-Date: 2015-08-02 19:14+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -1469,7 +1469,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:888 wp-includes/theme-compat/sidebar.php:21
 msgid "Author"
-msgstr ""
+msgstr "ஆக்கியோன்"
 
 #: wp-includes/class-wp-editor.php:891
 msgid "Insert/edit image"
@@ -2420,7 +2420,7 @@ msgstr "இந்த இடுகையை நீக்க இயலவில்
 #: wp-includes/class-wp-xmlrpc-server.php:4350 wp-includes/class-wp-xmlrpc-server.php:5358
 #: wp-includes/class-wp-xmlrpc-server.php:5712 wp-includes/class-wp-xmlrpc-server.php:5938
 msgid "Sorry, you cannot edit this post."
-msgstr ""
+msgstr "மன்னிக்கவும் ! இந்த இடுகையை நீங்கள் திருத்த முடியாது. "
 
 #: wp-includes/class-wp-xmlrpc-server.php:1731
 msgid "The post type specified is not valid"
@@ -2488,7 +2488,7 @@ msgstr "இந்த வகைப்பாட்டில் சொற்கள�
 
 #: wp-includes/class-wp-xmlrpc-server.php:2357
 msgid "Sorry, you cannot edit users."
-msgstr ""
+msgstr "மன்னிக்கவும் ! பயனர்களை நீங்கள் திருத்த முடியாது. "
 
 #: wp-includes/class-wp-xmlrpc-server.php:2362 wp-includes/user.php:2134
 #: wp-includes/user.php:2140
@@ -2497,7 +2497,7 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:2415
 msgid "Sorry, you cannot list users."
-msgstr ""
+msgstr "மன்னிக்கவும் ! பயனர்களை நீங்கள் பட்டியலிட முடியாது. "
 
 #: wp-includes/class-wp-xmlrpc-server.php:2431
 msgid "The role specified is not valid"
@@ -2513,7 +2513,7 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:2604
 msgid "Sorry, you cannot edit this page."
-msgstr ""
+msgstr "மன்னிக்கவும் ! இந்த பக்கத்தை நீங்கள் திருத்த முடியாது. "
 
 #: wp-includes/class-wp-xmlrpc-server.php:2615 wp-includes/class-wp-xmlrpc-server.php:2735
 #: wp-includes/class-wp-xmlrpc-server.php:2797
@@ -2522,7 +2522,7 @@ msgstr "மன்னிக்கவும், அப்படி ஒரு ப�
 
 #: wp-includes/class-wp-xmlrpc-server.php:2645 wp-includes/class-wp-xmlrpc-server.php:2847
 msgid "Sorry, you cannot edit pages."
-msgstr ""
+msgstr "மன்னிக்கவும் ! பக்கங்களை திருத்த முடியாது. "
 
 #: wp-includes/class-wp-xmlrpc-server.php:2739
 msgid "Sorry, you do not have the right to delete this page."
@@ -2539,7 +2539,7 @@ msgstr "மன்னிக்கவும், இந்த இடுகையை
 #: wp-includes/class-wp-xmlrpc-server.php:2903 wp-includes/class-wp-xmlrpc-server.php:4403
 #: wp-includes/class-wp-xmlrpc-server.php:5488
 msgid "Sorry, you cannot edit posts on this site."
-msgstr ""
+msgstr "மன்னிக்கவும் ! இந்த தளத்தில் இடுகைகளை நீங்கள் திருத்த முடியாது."
 
 #: wp-includes/class-wp-xmlrpc-server.php:2944
 msgid "Sorry, you must be able to edit posts on this site in order to view tags."
@@ -2575,7 +2575,7 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:3211
 msgid "Sorry, you cannot edit comments."
-msgstr ""
+msgstr "மன்னிக்கவும் ! பின்னூடங்களை திருத்த முடியாது."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3358
 msgid "Invalid comment status."
@@ -2630,7 +2630,7 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:4304
 msgid "Sorry, you do not have access to user data on this site."
-msgstr ""
+msgstr "மன்னிக்கவும் ! இந்த தளத்தின் பயனர் தரவுகளை அணுக உங்களுக்கு அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4411 wp-includes/class-wp-xmlrpc-server.php:5786
 msgid "Either there are no posts, or something went wrong."
@@ -2708,7 +2708,7 @@ msgstr "மன்னிக்கவும், இந்த இடுகையை
 
 #: wp-includes/class-wp-xmlrpc-server.php:6057
 msgid "Sorry, you cannot publish this post."
-msgstr ""
+msgstr "மன்னிக்கவும் ! இந்த இடுகையை நீங்கள் பிரசுரிக்கமுடியது."
 
 #: wp-includes/class-wp-xmlrpc-server.php:6117
 msgid "Is there no link to us?"
@@ -3136,7 +3136,7 @@ msgstr ""
 #: wp-includes/default-widgets.php:472
 msgctxt "meta widget link text"
 msgid "WordPress.org"
-msgstr ""
+msgstr "WordPress.org"
 
 #: wp-includes/default-widgets.php:514
 msgid "A calendar of your site&#8217;s Posts."
@@ -3152,7 +3152,7 @@ msgstr ""
 
 #: wp-includes/default-widgets.php:571
 msgid "Text"
-msgstr ""
+msgstr "உரை"
 
 #: wp-includes/default-widgets.php:627
 msgid "Content:"
@@ -3315,11 +3315,11 @@ msgstr ""
 
 #: wp-includes/deprecated.php:2731
 msgid "First Post"
-msgstr ""
+msgstr "முதல் இடுகை"
 
 #: wp-includes/deprecated.php:2731
 msgid "Last Post"
-msgstr ""
+msgstr "கடைசி இடுகை"
 
 #: wp-includes/deprecated.php:3172 wp-includes/functions.php:2334
 msgid "Are you sure you want to do this?"
@@ -3331,7 +3331,7 @@ msgstr ""
 
 #: wp-includes/deprecated.php:3225
 msgid "The GD image library is not installed."
-msgstr ""
+msgstr "GD பிம்ப நூலகம் நிறுவப்படவில்லை."
 
 #: wp-includes/deprecated.php:3232
 msgid "File &#8220;%s&#8221; is not an image."
@@ -3439,8 +3439,8 @@ msgstr ""
 #: wp-includes/formatting.php:2704
 msgid "%s min"
 msgid_plural "%s mins"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s நிமிடம் "
+msgstr[1] "%s நிமிடங்கள்"
 
 #: wp-includes/formatting.php:2709
 msgid "%s hour"
@@ -3568,7 +3568,7 @@ msgstr ""
 
 #: wp-includes/functions.php:2470 wp-load.php:80
 msgid "WordPress &rsaquo; Error"
-msgstr ""
+msgstr "வோர்ட்பிரஸ் &rsaquo; பிழை"
 
 #: wp-includes/functions.php:3342
 msgid "Database Error"
@@ -3688,7 +3688,7 @@ msgstr ""
 
 #: wp-includes/general-template.php:388 wp-login.php:745 wp-login.php:911
 msgid "Username"
-msgstr ""
+msgstr "பயனர்பெயர்"
 
 #: wp-includes/general-template.php:389 wp-login.php:915
 msgid "Password"
@@ -3750,7 +3750,7 @@ msgstr ""
 
 #: wp-includes/general-template.php:1213
 msgid "Author: %s"
-msgstr ""
+msgstr "ஆக்கியோன் : %s"
 
 #: wp-includes/general-template.php:1215
 msgid "Year: %s"
@@ -3979,7 +3979,7 @@ msgstr "&laquo; முந்தைய பக்கம்"
 
 #: wp-includes/link-template.php:2279
 msgid "Post navigation"
-msgstr ""
+msgstr "இடுகை வழிசெலுத்தல்"
 
 #: wp-includes/link-template.php:2331
 msgid "Older posts"
@@ -3992,29 +3992,29 @@ msgstr "புதிய இடுகைகள்"
 #: wp-includes/link-template.php:2333 wp-includes/link-template.php:2388
 #: wp-includes/link-template.php:2433
 msgid "Posts navigation"
-msgstr ""
+msgstr "இடுகைகளின் வழிசெலுத்தல்"
 
 #: wp-includes/link-template.php:2386
 msgctxt "previous post"
 msgid "Previous"
-msgstr ""
+msgstr "முந்தைய இடுகை"
 
 #: wp-includes/link-template.php:2387
 msgctxt "next post"
 msgid "Next"
-msgstr ""
+msgstr "அடுத்த இடுகை"
 
 #: wp-includes/link-template.php:2524
 msgid "Newer Comments &raquo;"
-msgstr ""
+msgstr "புதிய பின்னூட்டங்கள்"
 
 #: wp-includes/link-template.php:2568
 msgid "&laquo; Older Comments"
-msgstr ""
+msgstr "பழைய பின்னூட்டங்கள்"
 
 #: wp-includes/link-template.php:3415
 msgid "This is the short link."
-msgstr ""
+msgstr "இதுதான் சிறுஞ்சுட்டி"
 
 #: wp-includes/load.php:115
 msgid "Your server is running PHP version %1$s but WordPress %2$s requires at least %3$s."
@@ -4028,7 +4028,7 @@ msgstr ""
 
 #: wp-includes/load.php:185
 msgid "Maintenance"
-msgstr ""
+msgstr "பராமரிப்பு"
 
 #: wp-includes/load.php:189
 msgid "Briefly unavailable for scheduled maintenance. Check back in a minute."
@@ -4345,7 +4345,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:199
 msgid "Upload Limit Exceeded"
-msgstr ""
+msgstr "பதிவேற்ற அளவை மிஞ்சிவிட்டது"
 
 #: wp-includes/media-template.php:206
 msgid "Drop files anywhere to upload"
@@ -4407,7 +4407,7 @@ msgstr "கோப்பு பெயர்"
 
 #: wp-includes/media-template.php:345
 msgid "File type:"
-msgstr ""
+msgstr "கோப்பு வகை:"
 
 #: wp-includes/media-template.php:346
 msgid "Uploaded on:"
@@ -4454,7 +4454,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:430
 msgid "View attachment page"
-msgstr ""
+msgstr "இணைப்பு பக்கத்தை பார்"
 
 #: wp-includes/media-template.php:432
 msgid "Edit more details"
@@ -4569,7 +4569,7 @@ msgstr ""
 #: wp-includes/media-template.php:697 wp-includes/media-template.php:772
 #: wp-includes/media-template.php:946 wp-includes/media.php:2788
 msgid "Full Size"
-msgstr ""
+msgstr "முழு அளவு"
 
 #: wp-includes/media-template.php:715
 msgid "Gallery Settings"
@@ -4601,7 +4601,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:814
 msgid "Show Images"
-msgstr ""
+msgstr "பிம்பங்களை காட்டு"
 
 #: wp-includes/media-template.php:848 wp-includes/media-template.php:914
 msgid "Align"
@@ -4782,7 +4782,7 @@ msgstr ""
 
 #: wp-includes/media.php:3045
 msgid "Upload Files"
-msgstr ""
+msgstr "கோப்புகளை பதிவேற்று"
 
 #: wp-includes/media.php:3046
 msgid "Upload Images"
@@ -4985,7 +4985,7 @@ msgstr ""
 
 #: wp-includes/media.php:3120
 msgid "Video Details"
-msgstr ""
+msgstr "காணொளி விபரங்கள்"
 
 #: wp-includes/media.php:3121
 msgid "Replace Video"
@@ -5116,11 +5116,11 @@ msgstr ""
 
 #: wp-includes/ms-functions.php:495
 msgid "Username must be at least 4 characters."
-msgstr ""
+msgstr "பயனர்பெயர் நான்கு எழுத்துக்களாவது இருக்க வேண்டும்."
 
 #: wp-includes/ms-functions.php:498
 msgid "Username may not be longer than 60 characters."
-msgstr ""
+msgstr "பயனர்பெயர் அறுபது எழுத்துக்களை மிஞ்சக்கூடாது."
 
 #: wp-includes/ms-functions.php:502
 msgid "Sorry, usernames may not contain the character &#8220;_&#8221;!"
@@ -5174,7 +5174,7 @@ msgstr ""
 
 #: wp-includes/ms-functions.php:646
 msgid "Sorry, you may not use that site name."
-msgstr ""
+msgstr "மன்னிக்கவும் ! அந்த தளப்பெயரை நீங்கள் பயன்படுத்த முடியாது."
 
 #: wp-includes/ms-functions.php:650
 msgid "Sorry, site names must have letters too!"
@@ -5232,7 +5232,7 @@ msgstr "அந்த பெயருக்கு அனுமதியில்�
 
 #: wp-includes/ms-functions.php:1006
 msgid "The site is already active."
-msgstr ""
+msgstr "இந்த தளம் ஏற்கெனவே செயல்பாட்டில் உள்ளது."
 
 #: wp-includes/ms-functions.php:1020
 msgid "Could not create user"
@@ -5325,7 +5325,7 @@ msgstr ""
 
 #: wp-includes/ms-functions.php:1993
 msgid "WordPress &rsaquo; Success"
-msgstr ""
+msgstr "வோர்ட்பிரஸ் &rsaquo; வெற்றி"
 
 #. translators: Do not translate USERNAME, PASSWORD, LOGINLINK, SITE_NAME:
 #. those are placeholders.
@@ -5737,7 +5737,7 @@ msgstr ""
 
 #: wp-includes/post.php:59
 msgid "View Attachment Page"
-msgstr ""
+msgstr "இணைப்பு பக்கத்தை பார்"
 
 #: wp-includes/post.php:82
 msgid "Revisions"
@@ -5981,7 +5981,7 @@ msgstr[1] ""
 
 #: wp-includes/post.php:2479
 msgid "Video"
-msgstr ""
+msgstr "காணொளி"
 
 #: wp-includes/post.php:2479
 msgid "Manage Video"
@@ -6460,7 +6460,7 @@ msgstr "மேலும் பின்நூட்டனால் ஏதும�
 
 #: wp-includes/script-loader.php:497
 msgid "Publish"
-msgstr ""
+msgstr "பிரசுரி"
 
 #: wp-includes/script-loader.php:498
 msgid "Schedule"
@@ -6510,7 +6510,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:530
 msgid "Submitted on:"
-msgstr ""
+msgstr "பதிக்கப்பட்ட நேரம்: "
 
 #: wp-includes/script-loader.php:543 wp-includes/script-loader.php:551
 msgid "Error while saving the changes."
@@ -7354,7 +7354,7 @@ msgstr "<strong>பிழை</strong>: பயனர் பெயர் அல்
 
 #: wp-login.php:288
 msgid "<strong>ERROR</strong>: There is no user registered with that email address."
-msgstr ""
+msgstr "<strong>பிழை</strong>: இந்த மின்னஞ்சல் முகவரியில் ஒரு பயனரும் பெயர்ப்பதியவில்லை."
 
 #: wp-login.php:305
 msgid "<strong>ERROR</strong>: Invalid username or e-mail."
@@ -7751,6 +7751,8 @@ msgid ""
 "Greetings Site Administrator! You are currently allowing &#8220;%s&#8221; registrations. "
 "To change or disable registration go to your <a href=\"%s\">Options page</a>."
 msgstr ""
+"வணக்கம் தள நிர்வாகி அவர்களே!   நீங்கள் தற்போது  &#8220;%s&#8221; பெயர்ப்பதிவுகளை அனுமதிக்கிறீர்கள். "
+"இதை மாற்றவோ அல்லது முடக்கவோ, உங்களது <a href=\"%s\">தெரிவுகள்</a > பக்கத்திற்கு செல்லவும்."
 
 #: wp-signup.php:670
 msgid "Registration has been disabled."
