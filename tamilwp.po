@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-02 17:44+0530\n"
+"PO-Revision-Date: 2015-08-02 17:51+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -76,7 +76,7 @@ msgstr ""
 
 #: wp-comments-post.php:50
 msgid "Sorry, comments are closed for this item."
-msgstr ""
+msgstr "மன்னிக்கவும், இந்த உருப்படிக்கு பின்னூட்டங்கள் மூடப்பட்டுள்ளது."
 
 #: wp-comments-post.php:115
 msgid "Sorry, you must be logged in to post a comment."
@@ -102,15 +102,15 @@ msgstr ""
 
 #: wp-includes/admin-bar.php:108 wp-includes/admin-bar.php:117
 msgid "About WordPress"
-msgstr ""
+msgstr "வோர்ட்பிரஸ் பற்றி"
 
 #: wp-includes/admin-bar.php:126
 msgid "WordPress.org"
-msgstr ""
+msgstr "WordPress.org"
 
 #: wp-includes/admin-bar.php:127 wp-includes/default-widgets.php:470 wp-login.php:101
 msgid "https://wordpress.org/"
-msgstr ""
+msgstr "https://wordpress.org/"
 
 #: wp-includes/admin-bar.php:134
 msgid "Documentation"
@@ -118,7 +118,7 @@ msgstr ""
 
 #: wp-includes/admin-bar.php:135
 msgid "https://codex.wordpress.org/"
-msgstr ""
+msgstr "https://codex.wordpress.org/"
 
 #: wp-includes/admin-bar.php:142
 msgid "Support Forums"
@@ -126,7 +126,7 @@ msgstr "உதவி மன்றங்கள்"
 
 #: wp-includes/admin-bar.php:143 wp-login.php:809
 msgid "https://wordpress.org/support/"
-msgstr ""
+msgstr "https://wordpress.org/support/"
 
 #: wp-includes/admin-bar.php:150
 msgid "Feedback"
@@ -163,7 +163,7 @@ msgstr ""
 #: wp-includes/admin-bar.php:294 wp-includes/admin-bar.php:478
 #: wp-includes/deprecated.php:2846
 msgid "Visit Site"
-msgstr ""
+msgstr "தளத்தை பார்வையிடு"
 
 #: wp-includes/admin-bar.php:302
 msgid "Edit Site"
@@ -199,7 +199,7 @@ msgstr "பயனர்கள்"
 #: wp-includes/admin-bar.php:410 wp-includes/admin-bar.php:698
 #: wp-includes/class-wp-customize-section.php:421
 msgid "Themes"
-msgstr ""
+msgstr "சொருகிகள்"
 
 #: wp-includes/admin-bar.php:416
 msgid "Plugins"
@@ -1339,7 +1339,7 @@ msgstr "வெட்டு"
 
 #: wp-includes/class-wp-editor.php:853
 msgid "Copy"
-msgstr ""
+msgstr "நகலிடு"
 
 #: wp-includes/class-wp-editor.php:854
 msgid "Paste"
@@ -1371,7 +1371,7 @@ msgstr ""
 #: wp-includes/functions.php:4779 wp-includes/script-loader.php:256
 #: wp-includes/script-loader.php:337 wp-includes/script-loader.php:427
 msgid "Close"
-msgstr ""
+msgstr "மூடிடு"
 
 #: wp-includes/class-wp-editor.php:862
 msgid "Visual aids"
@@ -1451,7 +1451,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:883
 msgid "Robots"
-msgstr ""
+msgstr "இயந்திரர்கள்"
 
 #: wp-includes/class-wp-editor.php:884 wp-includes/media-template.php:383
 #: wp-includes/media-template.php:563 wp-includes/revision.php:31
@@ -1489,7 +1489,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:895
 msgid "Border"
-msgstr ""
+msgstr "எல்லை"
 
 #: wp-includes/class-wp-editor.php:896
 msgid "Constrain proportions"
@@ -4134,7 +4134,7 @@ msgstr "செவ்"
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/locale.php:126
 msgid "Wed"
-msgstr "புத"
+msgstr "புதன்"
 
 #. translators: three-letter abbreviation of the weekday
 #: wp-includes/locale.php:127
@@ -4411,7 +4411,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:346
 msgid "Uploaded on:"
-msgstr ""
+msgstr "பதிவேற்றிய நாள்:"
 
 #: wp-includes/media-template.php:348
 msgid "File size:"
@@ -4822,11 +4822,11 @@ msgstr ""
 
 #: wp-includes/media.php:3058
 msgid "Insert into page"
-msgstr ""
+msgstr "பக்கத்தினுள் நுழைத்திடு"
 
 #: wp-includes/media.php:3058
 msgid "Insert into post"
-msgstr ""
+msgstr "இடுகையுனுள் நுழைத்திடு"
 
 #: wp-includes/media.php:3059
 msgid "Unattached"
