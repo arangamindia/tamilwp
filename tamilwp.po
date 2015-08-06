@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-05 20:15+0530\n"
+"PO-Revision-Date: 2015-08-06 20:59+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -2355,7 +2355,7 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:1221
 msgid "Sorry, you are not allowed to stick this post."
-msgstr ""
+msgstr "மன்னிக்கவும், இந்த இடுகையை ஓட்ட உங்களுக்கு அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1253
 #: wp-includes/class-wp-xmlrpc-server.php:3997
@@ -5318,7 +5318,7 @@ msgstr "மன்னிக்கவும் ! அந்த தளப்பெ�
 
 #: wp-includes/ms-functions.php:650
 msgid "Sorry, site names must have letters too!"
-msgstr ""
+msgstr "மன்னிக்கவும், வலைதள பெயரில் எழுத்துக்களும் இருக்க வேண்டும் !"
 
 #: wp-includes/ms-functions.php:667
 msgid "Please enter a site title."
@@ -7087,7 +7087,7 @@ msgstr "இந்த சாளரத்தை மூடு."
 
 #: wp-includes/theme-compat/comments-popup.php:116
 msgid "Sorry, no posts matched your criteria."
-msgstr ""
+msgstr "மன்னிக்கவும், உங்களது கட்டளை விதிகளுக்கு ஒரு இடுகையும் சேரவில்லை."
 
 #: wp-includes/theme-compat/comments-popup.php:120
 msgid ""
@@ -7736,7 +7736,7 @@ msgstr "<strong>எழுதியோன்:</strong> %s"
 
 #: wp-mail.php:248
 msgid "<strong>Posted title:</strong> %s"
-msgstr ""
+msgstr "<strong>பதித்த தலைப்பு :</strong> %s"
 
 #: wp-mail.php:251
 msgid "Oops: %s"
