@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-07 12:36+0530\n"
+"PO-Revision-Date: 2015-08-07 17:16+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -2436,12 +2436,15 @@ msgstr ""
 #: wp-includes/class-wp-xmlrpc-server.php:1384
 msgid "Sorry, one of the given taxonomies is not supported by the post type."
 msgstr ""
+"மன்னிக்கவும், கொடுத்த வகைப்பாட்டில்  ஏதேனும் ஒன்று இந்த் இடுகை வகையை அனுசரிக்கவில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1363
 #: wp-includes/class-wp-xmlrpc-server.php:1387
 msgid ""
 "Sorry, you are not allowed to assign a term to one of the given taxonomies."
 msgstr ""
+"மன்னிக்கவும், கொடுத்த வகைப்பாட்டில் ஏதேனும் ஒன்றில் ஒரு சொற்கூற்றை பணிக்க உங்களுக்கு "
+"அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1371
 #: wp-includes/class-wp-xmlrpc-server.php:1920
@@ -2459,13 +2462,13 @@ msgstr ""
 #: wp-includes/class-wp-xmlrpc-server.php:1416
 msgid ""
 "Sorry, you are not allowed to add a term to one of the given taxonomies."
-msgstr ""
+msgstr "மன்னிக்கவும், கொடுத்த வகைப்பாட்டில் ஒரு சொற்கூற்றை சேர்க்க உங்களுக்கு அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1468
 #: wp-includes/class-wp-xmlrpc-server.php:4513
 #: wp-includes/class-wp-xmlrpc-server.php:4966
 msgid "Sorry, your entry could not be posted. Something wrong happened."
-msgstr ""
+msgstr "மன்னிக்கவும், உங்களது உள்ளீட்டை பதிக்க முடியவில்லை. ஏதேனும் பிழை ஏற்ப்பட்டுள்ளது."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1517
 msgid "There is a revision of this post that is more recent."
@@ -2531,6 +2534,7 @@ msgstr ""
 #: wp-includes/class-wp-xmlrpc-server.php:1859
 msgid "Sorry, your term could not be created. Something wrong happened."
 msgstr ""
+"மன்னிக்கவும், உங்களது சொற்கூற்றை உருவாக்க முடியவில்லை. ஏதேனும் பிழை ஏற்ப்பட்டுள்ளது."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1907
 msgid "You are not allowed to edit terms in this taxonomy."
@@ -2625,16 +2629,16 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:2998
 msgid "Sorry, you do not have the right to add a category."
-msgstr ""
+msgstr "மன்னிக்கவும், புதிய வகையினத்தை சேர்க்க உங்களுக்கு அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3026
 #: wp-includes/class-wp-xmlrpc-server.php:3028
 msgid "Sorry, the new category failed."
-msgstr ""
+msgstr "மன்னிக்கவும், புதிய வகையினம் தோல்வியடைந்தது."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3073
 msgid "Sorry, you do not have the right to delete a category."
-msgstr ""
+msgstr "மன்னிக்கவும், ஒரு வகையினத்தை நீக்க உங்களுக்கு அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3120
 #: wp-includes/class-wp-xmlrpc-server.php:5601
@@ -2643,6 +2647,7 @@ msgid ""
 "Sorry, you must be able to edit posts on this site in order to view "
 "categories."
 msgstr ""
+"மன்னிக்கவும், வகையினத்தை காண நீங்கள் இந்த தளத்தில் இடுகைகளை திருத்த முடிந்திருக்க வேண்டும்."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3163
 #: wp-includes/class-wp-xmlrpc-server.php:3275
@@ -2668,7 +2673,7 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:3390
 msgid "Sorry, the comment could not be edited. Something wrong happened."
-msgstr ""
+msgstr "மன்னிக்கவும், இந்த பின்னூட்டத்தை திருத்த இயலவில்லை. ஏதேனும் பிழை ஏற்பட்டுள்ளது."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3444
 msgid "You must be registered to comment"
@@ -2795,7 +2800,7 @@ msgstr "மன்னிக்கவும், இந்த பக்கத்த
 
 #: wp-includes/class-wp-xmlrpc-server.php:5278
 msgid "Sorry, your entry could not be edited. Something wrong happened."
-msgstr ""
+msgstr "மன்னிக்கவும், உங்களது உள்ளீட்டை திருத்த முடியவில்லை. ஏதேனும் பிழை ஏற்ப்பட்டுள்ளது."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5703
 msgid "Could not write file %1$s (%2$s)"
@@ -7300,7 +7305,7 @@ msgstr ""
 
 #: wp-includes/user.php:221
 msgid "<strong>ERROR</strong>: Your account has been marked as a spammer."
-msgstr ""
+msgstr "<strong>பிழை</strong>: உங்களது கணக்கு எரிதப்பரப்பாளராக குறிக்கப்பட்டுள்ளது."
 
 #: wp-includes/user.php:1894
 msgid "Cannot create a user with an empty login name."
@@ -7721,6 +7726,8 @@ msgstr "இந்த செயல்பாடு நிர்வாகிக்�
 #: wp-mail.php:34
 msgid "Slow down cowboy, no need to check for new mails so often!"
 msgstr ""
+"மின்னஞ்சல்களை கொஞ்சம் பொறுமையாக தேடவும் ! இவ்வளவு அடிக்கடி புதிய மின்னஞ்சல்களை தேட "
+"அவசியமில்லை !"
 
 #: wp-mail.php:54
 msgid "There doesn&#8217;t seem to be any new mail."
