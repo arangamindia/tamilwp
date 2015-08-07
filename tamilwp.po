@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-07 10:30+0530\n"
+"PO-Revision-Date: 2015-08-07 12:36+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -1275,12 +1275,12 @@ msgstr ""
 #: wp-includes/class-wp-editor.php:827
 msgctxt "HTML tag"
 msgid "Div"
-msgstr ""
+msgstr "Div"
 
 #: wp-includes/class-wp-editor.php:828
 msgctxt "HTML tag"
 msgid "Pre"
-msgstr ""
+msgstr "Pre"
 
 #: wp-includes/class-wp-editor.php:829
 msgctxt "HTML tag"
@@ -1290,12 +1290,12 @@ msgstr ""
 #: wp-includes/class-wp-editor.php:830
 msgctxt "HTML tag"
 msgid "Address"
-msgstr ""
+msgstr "Address"
 
 #: wp-includes/class-wp-editor.php:832
 msgctxt "HTML elements"
 msgid "Inline"
-msgstr ""
+msgstr "Inline"
 
 #: wp-includes/class-wp-editor.php:833
 msgid "Underline"
@@ -1319,7 +1319,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:838 wp-includes/script-loader.php:100
 msgid "Bold"
-msgstr ""
+msgstr "தட்டையாக்கு"
 
 #: wp-includes/class-wp-editor.php:839 wp-includes/script-loader.php:102
 msgid "Italic"
@@ -3368,15 +3368,15 @@ msgstr "எத்தனை உருப்படிகளை நீங்கள�
 
 #: wp-includes/default-widgets.php:1327
 msgid "Display item content?"
-msgstr ""
+msgstr "உருப்படியின் உள்ளடக்கத்தை காட்டவா?"
 
 #: wp-includes/default-widgets.php:1330
 msgid "Display item author if available?"
-msgstr ""
+msgstr "உருப்படியின் எழுதியோன் இருக்கும்பட்சத்தில் காட்டவா?"
 
 #: wp-includes/default-widgets.php:1333
 msgid "Display item date?"
-msgstr ""
+msgstr "உருப்படியின் தேதியை காட்டவா?"
 
 #: wp-includes/default-widgets.php:1399
 msgid "A cloud of your most used tags."
@@ -3388,7 +3388,7 @@ msgstr ""
 
 #: wp-includes/default-widgets.php:1413
 msgid "Tags"
-msgstr ""
+msgstr "சொற்கூறுகள்"
 
 #: wp-includes/default-widgets.php:1467
 msgid "Taxonomy:"
