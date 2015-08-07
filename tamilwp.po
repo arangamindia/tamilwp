@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-07 18:43+0530\n"
+"PO-Revision-Date: 2015-08-08 03:18+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -122,7 +122,7 @@ msgstr "https://wordpress.org/"
 
 #: wp-includes/admin-bar.php:134
 msgid "Documentation"
-msgstr ""
+msgstr "ஆவணமாக்கல்"
 
 #: wp-includes/admin-bar.php:135
 msgid "https://codex.wordpress.org/"
@@ -138,7 +138,7 @@ msgstr "https://wordpress.org/support/"
 
 #: wp-includes/admin-bar.php:150
 msgid "Feedback"
-msgstr ""
+msgstr "கருத்து"
 
 #: wp-includes/admin-bar.php:151
 msgid "https://wordpress.org/support/forum/requests-and-feedback"
@@ -146,7 +146,7 @@ msgstr "https://wordpress.org/support/forum/requests-and-feedback"
 
 #: wp-includes/admin-bar.php:166
 msgid "Menu"
-msgstr ""
+msgstr "பட்டியல்"
 
 #: wp-includes/admin-bar.php:188
 msgid "Howdy, %1$s"
@@ -256,7 +256,7 @@ msgstr ""
 #: wp-includes/admin-bar.php:717
 #: wp-includes/class-wp-customize-nav-menus.php:460
 msgid "Menus"
-msgstr ""
+msgstr "பட்டியல்கள்"
 
 #: wp-includes/admin-bar.php:723
 msgid "Background"
@@ -264,7 +264,7 @@ msgstr "பின்புலம்"
 
 #: wp-includes/admin-bar.php:735
 msgid "Header"
-msgstr ""
+msgstr "தலைப்பு"
 
 #: wp-includes/admin-bar.php:785 wp-includes/admin-bar.php:786
 #: wp-includes/class-wp-editor.php:1418 wp-includes/media.php:3030
@@ -296,7 +296,7 @@ msgstr "கடைசியாக மேம்படுத்தப்பட்�
 
 #: wp-includes/bookmark-template.php:206
 msgid "Bookmarks"
-msgstr ""
+msgstr "அடையாளக்குறிகள்"
 
 #: wp-includes/capabilities.php:659 wp-includes/capabilities.php:681
 #: wp-includes/capabilities.php:707
@@ -535,7 +535,7 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-control.php:1413
 msgid "Live Preview"
-msgstr ""
+msgstr "நேரலை முன்னோட்டம்"
 
 #: wp-includes/class-wp-customize-control.php:1416
 msgid "By %s"
@@ -909,7 +909,7 @@ msgstr "இடுகை வகை"
 
 #: wp-includes/class-wp-customize-nav-menus.php:347
 msgid "Number of items found: %d"
-msgstr ""
+msgstr "கிடைத்த உருப்படிகளின் எண்ணிக்கை: %d"
 
 #: wp-includes/class-wp-customize-nav-menus.php:348
 msgid "Additional items found: %d"
@@ -1380,7 +1380,7 @@ msgstr "ஒட்டு"
 
 #: wp-includes/class-wp-editor.php:855
 msgid "Select all"
-msgstr ""
+msgstr "எல்லாவற்றையும் தேர்ந்தெடு"
 
 #: wp-includes/class-wp-editor.php:856
 msgid "Undo"
@@ -1931,7 +1931,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:1007
 msgid "Background color"
-msgstr ""
+msgstr "பின்புல நிறம்"
 
 #: wp-includes/class-wp-editor.php:1008
 msgid "Text color"
@@ -2167,7 +2167,7 @@ msgstr ""
 
 #: wp-includes/class-wp-image-editor-gd.php:311
 msgid "Image crop failed."
-msgstr ""
+msgstr "பிம்ப செதுக்கல் தோல்வியடைந்தது."
 
 #: wp-includes/class-wp-image-editor-gd.php:338
 msgid "Image rotate failed."
@@ -2685,7 +2685,7 @@ msgstr "பின்னூட்டமிட்டவர் பெயர் ம�
 
 #: wp-includes/class-wp-xmlrpc-server.php:3490
 msgid "A valid email address is required"
-msgstr ""
+msgstr "ஒரு செல்லுபடியான மின்னஞ்சல் தேவைப்படுகிறது."
 
 #: wp-includes/class-wp-xmlrpc-server.php:3540
 #: wp-includes/class-wp-xmlrpc-server.php:3612
@@ -2756,7 +2756,7 @@ msgstr "மன்னிக்கவும், இந்த இடுகையை
 #: wp-includes/class-wp-xmlrpc-server.php:4588
 msgid ""
 "For some strange yet very annoying reason, this post could not be edited."
-msgstr ""
+msgstr "ஒரு சில காரணத்தினால், இந்த இடுகை திருத்த இயலவில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4639
 msgid "Sorry, you do not have the right to delete this post."
@@ -2765,7 +2765,7 @@ msgstr "மன்னிக்கவும், இந்த இடுகையை
 #: wp-includes/class-wp-xmlrpc-server.php:4644
 msgid ""
 "For some strange yet very annoying reason, this post could not be deleted."
-msgstr ""
+msgstr "ஒரு சில காரணத்தினால், இந்த இடுகை நீக்க இயலவில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:4724
 msgid "Sorry, you are not allowed to publish pages on this site."
@@ -2830,7 +2830,7 @@ msgstr ""
 #: wp-includes/class-wp-xmlrpc-server.php:6162
 msgid ""
 "The source URL and the target URL cannot both point to the same resource."
-msgstr ""
+msgstr "மூல வலைமுகவரி மற்றும் இலக்கு வலைமுகவரியும் ஒரு வளத்தை குறிக்கின்றன."
 
 #: wp-includes/class-wp-xmlrpc-server.php:6170
 msgid "The pingback has already been registered."
@@ -3175,7 +3175,7 @@ msgstr "சுட்டியின் பெயரை காட்டு"
 
 #: wp-includes/default-widgets.php:229
 msgid "Show Link Description"
-msgstr ""
+msgstr "இணைப்பின் விரிவுரையை காட்டு"
 
 #: wp-includes/default-widgets.php:231
 msgid "Show Link Rating"
@@ -3183,7 +3183,7 @@ msgstr "சுட்டியின் மதிப்பீட்டை கா�
 
 #: wp-includes/default-widgets.php:234
 msgid "Number of links to show:"
-msgstr ""
+msgstr "காட்டக்கூடிய இணைப்புகளின் எண்ணிக்கை"
 
 #: wp-includes/default-widgets.php:249
 msgid "A search form for your site."
@@ -3192,7 +3192,7 @@ msgstr ""
 #: wp-includes/default-widgets.php:250
 msgctxt "Search widget"
 msgid "Search"
-msgstr ""
+msgstr "தேடல்"
 
 #: wp-includes/default-widgets.php:305
 msgid "A monthly archive of your site&#8217;s Posts."
@@ -3289,7 +3289,7 @@ msgstr ""
 
 #: wp-includes/default-widgets.php:680
 msgid "Select Category"
-msgstr ""
+msgstr "வகையினத்தை தேர்ந்தெடு"
 
 #: wp-includes/default-widgets.php:768
 msgid "Show hierarchy"
@@ -3305,7 +3305,7 @@ msgstr "சமீபத்திய இடுகைகள்"
 
 #: wp-includes/default-widgets.php:910
 msgid "Number of posts to show:"
-msgstr ""
+msgstr "காட்டக்கூடிய இடுகைகளின் எண்ணிக்கை:"
 
 #: wp-includes/default-widgets.php:914
 msgid "Display post date?"
@@ -3317,7 +3317,7 @@ msgstr "உங்களது தளத்தின் அண்மைய பி
 
 #: wp-includes/default-widgets.php:928 wp-includes/default-widgets.php:994
 msgid "Recent Comments"
-msgstr ""
+msgstr "அண்மைய பின்னூட்டங்கள்"
 
 #. translators: comments widget: 1: comment author, 2: post link
 #: wp-includes/default-widgets.php:1032
@@ -3752,7 +3752,7 @@ msgstr ""
 
 #: wp-includes/functions.php:4141
 msgid "Select a city"
-msgstr ""
+msgstr "ஒரு நகரத்தை தேர்ந்தெடு"
 
 #: wp-includes/functions.php:4186 wp-includes/functions.php:4190
 msgid "UTC"
@@ -3764,7 +3764,7 @@ msgstr ""
 
 #: wp-includes/functions.php:4790 wp-includes/script-loader.php:430
 msgid "Session expired"
-msgstr ""
+msgstr "அமர்வு காலாவதியானது."
 
 #: wp-includes/functions.php:4791 wp-includes/user.php:191
 msgid "Please log in again."
@@ -3806,7 +3806,7 @@ msgstr ""
 #: wp-includes/general-template.php:231 wp-includes/general-template.php:238
 msgctxt "submit button"
 msgid "Search"
-msgstr ""
+msgstr "தேடு"
 
 #: wp-includes/general-template.php:276 wp-login.php:578 wp-login.php:641
 #: wp-login.php:685 wp-login.php:767
@@ -3861,7 +3861,7 @@ msgstr ""
 #. translators: 1: separator, 2: search phrase
 #: wp-includes/general-template.php:896
 msgid "Search Results %1$s %2$s"
-msgstr ""
+msgstr "தேடல் முடிவுகள் %1$s %2$s"
 
 #: wp-includes/general-template.php:901
 msgid "Page not found"
@@ -3933,7 +3933,7 @@ msgstr ""
 #: wp-includes/general-template.php:1230
 msgctxt "post format archive title"
 msgid "Quotes"
-msgstr ""
+msgstr "மேற்கோள்கள்"
 
 #: wp-includes/general-template.php:1232
 msgctxt "post format archive title"
@@ -4795,7 +4795,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:1051 wp-includes/media-template.php:1065
 msgid "Remove audio source"
-msgstr ""
+msgstr "ஒலி மூலத்தை நீக்கு"
 
 #: wp-includes/media-template.php:1072 wp-includes/media-template.php:1154
 msgid "Add alternate sources for maximum HTML5 playback:"
@@ -4824,7 +4824,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:1134 wp-includes/media-template.php:1146
 msgid "Remove video source"
-msgstr ""
+msgstr "காணொளி மூலத்தை நீக்கு"
 
 #: wp-includes/media-template.php:1165
 msgid "Poster Image"
@@ -4903,7 +4903,7 @@ msgstr ""
 
 #: wp-includes/media.php:3031
 msgid "Select"
-msgstr ""
+msgstr "தேர்ந்தெடு"
 
 #: wp-includes/media.php:3033 wp-includes/script-loader.php:394
 #: wp-includes/script-loader.php:499
@@ -5035,7 +5035,7 @@ msgstr ""
 
 #: wp-includes/media.php:3074
 msgid "Search Media"
-msgstr ""
+msgstr "ஊடகங்களை தேடு"
 
 #: wp-includes/media.php:3075
 msgid "No media attachments found."
@@ -5092,23 +5092,23 @@ msgstr "திருத்தத்தை நிராகரி"
 
 #: wp-includes/media.php:3105
 msgid "Select and Crop"
-msgstr ""
+msgstr "தேர்ந்தெடு மற்றும் செதுக்கு"
 
 #: wp-includes/media.php:3106
 msgid "Skip Cropping"
-msgstr ""
+msgstr "செதுக்குவதை தவிர்"
 
 #: wp-includes/media.php:3107
 msgid "Crop Image"
-msgstr ""
+msgstr "பிம்பத்தை செதுக்கு"
 
 #: wp-includes/media.php:3108
 msgid "Crop your image"
-msgstr ""
+msgstr "உங்கள் பிம்பத்தை செதுக்கு"
 
 #: wp-includes/media.php:3109
 msgid "Cropping&hellip;"
-msgstr ""
+msgstr "செதுக்கல்&hellip;"
 
 #: wp-includes/media.php:3111
 msgid "There has been an error cropping your image."
@@ -5313,11 +5313,12 @@ msgstr "அந்த பெயர் அனுமதிக்கப்படவ�
 
 #: wp-includes/ms-functions.php:639
 msgid "Site name must be at least 4 characters."
-msgstr ""
+msgstr "தளத்தின் பெயர் குறைந்தபட்சம் நான்கு எழுத்துக்கள் இருக்க வேண்டும்."
 
 #: wp-includes/ms-functions.php:642
 msgid "Sorry, site names may not contain the character &#8220;_&#8221;!"
 msgstr ""
+"மன்னிக்கவும், தளத்தின் பெயர்கள் இந்த எழுத்தை கொண்டிருக்க முடியாது &#8220;_&#8221;!"
 
 #: wp-includes/ms-functions.php:646
 msgid "Sorry, you may not use that site name."
@@ -5404,7 +5405,7 @@ msgstr ""
 
 #: wp-includes/ms-functions.php:1238
 msgid "New Site Registration: %s"
-msgstr ""
+msgstr "புதிய வலைத்தள பெயர்ப்பதிவு : %s"
 
 #: wp-includes/ms-functions.php:1265
 msgid ""
@@ -5413,6 +5414,10 @@ msgid ""
 "\n"
 "Disable these notifications: %3$s"
 msgstr ""
+"புதிய பயனர்: %1$s\n"
+"தொலைவு இணையமுகவரி: %2$s\n"
+"\n"
+"அறிவிக்கைகளை முடக்கு: %3$s"
 
 #: wp-includes/ms-functions.php:1280
 msgid "New User Registration: %s"
@@ -5452,11 +5457,11 @@ msgstr ""
 
 #: wp-includes/ms-functions.php:1531
 msgid "New %1$s Site: %2$s"
-msgstr ""
+msgstr "புதிய %1$s வலைத்தளம்: %2$s"
 
 #: wp-includes/ms-functions.php:1609
 msgid "New %1$s User: %2$s"
-msgstr ""
+msgstr "புதிய %1$s பயனர்: %2$s"
 
 #: wp-includes/ms-functions.php:1910
 msgid "This file is too big. Files must be less than %d KB in size."
@@ -5495,6 +5500,18 @@ msgid ""
 "\n"
 "--The Team @ SITE_NAME"
 msgstr ""
+"வணக்கம் USERNAME,\n"
+"\n"
+"உங்களது புதிய கணக்கு உருவாக்கப்பட்டது.\n"
+"\n"
+"நீங்கள் பின்வரும் விபரங்களை கொண்டு உள்நுழையலாம்:\n"
+"Username: USERNAME\n"
+"Password: PASSWORD\n"
+"LOGINLINK\n"
+"\n"
+"நன்றி!\n"
+"\n"
+"--குழு @ SITE_NAME"
 
 #: wp-includes/ms-load.php:92
 msgid "This site is no longer available."
@@ -5514,12 +5531,15 @@ msgstr ""
 msgid ""
 "If your site does not display, please contact the owner of this network."
 msgstr ""
+"உங்களது தளத்தை பார்வையிட முடியவில்லை என்றால், இந்த வலையின் உரிமையாளரை தொடர்புகொள்ளவும்."
 
 #: wp-includes/ms-load.php:415
 msgid ""
 "If you are the owner of this network please check that MySQL is running "
 "properly and all tables are error free."
 msgstr ""
+"நீங்கள் இந்த வலையின் உரிமையாளராக இருந்தால், MySQL சரியாக வேலை செய்கிறதா என்றும் அணைத்து "
+"மேசைகளும் பிழியின்றி இருக்கிறதா என்றும்  சரிபார்க்கவும்."
 
 #. translators: %s: table name
 #: wp-includes/ms-load.php:420
@@ -5528,6 +5548,9 @@ msgid ""
 "running, WordPress was not installed properly, or someone deleted %s. You "
 "really should look at your database now."
 msgstr ""
+"<strong>தரவுத்தள மேசைகளை காணவில்லை.</strong> இது MySQL ஓடவில்லை என்றோ, வோர்ட்பிரஸ் "
+"சரியாக நிறுவப்படவில்லை என்றோ, அல்லது யாரேனும் %s-ஐ நீக்கியுள்ளார்கள் என்பதை "
+"குறிக்கிறது.  நீங்கள் தரவுத்தளத்தை இப்போது சரிப்பார்க்க வேண்டும்."
 
 #. translators: 1: site url, 2: table name, 3: database name
 #: wp-includes/ms-load.php:426
@@ -5700,7 +5723,7 @@ msgstr[1] ""
 
 #: wp-includes/pluggable.php:1612
 msgid "[%1$s] Please moderate: \"%2$s\""
-msgstr ""
+msgstr "[%1$s] தயவுசெய்து மட்டுறுத்தவும்  \"%2$s\""
 
 #: wp-includes/pluggable.php:1675
 msgid "Password Lost and Changed for user: %s"
@@ -5712,7 +5735,7 @@ msgstr ""
 
 #: wp-includes/pluggable.php:1702
 msgid "New user registration on your site %s:"
-msgstr ""
+msgstr "உங்களது தளம் %s-இல் புதிய பெயர்ப்பதிவு"
 
 #: wp-includes/pluggable.php:1703 wp-includes/pluggable.php:1721
 #: wp-login.php:371
@@ -5773,7 +5796,7 @@ msgstr "பிம்பம்"
 #: wp-includes/post-formats.php:96
 msgctxt "Post format"
 msgid "Quote"
-msgstr ""
+msgstr "மேற்கோள்"
 
 #: wp-includes/post-formats.php:97
 msgctxt "Post format"
@@ -5830,7 +5853,7 @@ msgstr ""
 
 #: wp-includes/post-template.php:1668
 msgid "Submit"
-msgstr ""
+msgstr "சமர்ப்பி"
 
 #. translators: revision date format, see http:php.net/date
 #: wp-includes/post-template.php:1757 wp-includes/post-template.php:1793
@@ -5867,7 +5890,7 @@ msgstr "%1$s [தற்போதைய திருத்தம்]"
 
 #: wp-includes/post-template.php:1857
 msgid "JavaScript must be enabled to use this feature."
-msgstr ""
+msgstr "இந்த அம்சத்தை பயன்படுத்த ஜாவாஸ்க்ரிப்டை இயங்க செய்ய வேண்டும்."
 
 #: wp-includes/post.php:22
 msgctxt "add new on admin bar"
@@ -5882,7 +5905,7 @@ msgstr ""
 #: wp-includes/post.php:55
 msgctxt "post type general name"
 msgid "Media"
-msgstr ""
+msgstr "ஊடகம்"
 
 #: wp-includes/post.php:56
 msgctxt "add new from admin bar"
@@ -5948,8 +5971,8 @@ msgstr " வரைவு"
 #: wp-includes/post.php:129
 msgid "Draft <span class=\"count\">(%s)</span>"
 msgid_plural "Drafts <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "வரைவு <span class=\"count\">(%s)</span>"
+msgstr[1] "வரைவுகள் <span class=\"count\">(%s)</span>"
 
 #: wp-includes/post.php:133
 msgctxt "post"
@@ -5990,7 +6013,7 @@ msgstr "வரைவு"
 
 #: wp-includes/post.php:922
 msgid "Pending Review"
-msgstr ""
+msgstr "மதிப்பாய்வு நிலுவையிலுள்ளது"
 
 #: wp-includes/post.php:923 wp-includes/post.php:943
 #: wp-includes/script-loader.php:502
@@ -6004,17 +6027,17 @@ msgstr "பிரசுரிக்கப்பட்டது"
 
 #: wp-includes/post.php:1354 wp-includes/post.php:1355
 msgid "Post type names must be between 1 and 20 characters in length."
-msgstr ""
+msgstr "இடுகை வகை பெயர்கள் ஒன்றிலிருந்து இருபது எழுத்துக்களுள் இருக்கலாம்"
 
 #: wp-includes/post.php:1647
 msgctxt "post type general name"
 msgid "Posts"
-msgstr ""
+msgstr "இடுகைகள்"
 
 #: wp-includes/post.php:1647
 msgctxt "post type general name"
 msgid "Pages"
-msgstr ""
+msgstr "பக்கங்கள்"
 
 #: wp-includes/post.php:1648
 msgctxt "post type singular name"
@@ -6024,17 +6047,17 @@ msgstr "இடுகை"
 #: wp-includes/post.php:1648
 msgctxt "post type singular name"
 msgid "Page"
-msgstr ""
+msgstr "பக்கம்"
 
 #: wp-includes/post.php:1649
 msgctxt "post"
 msgid "Add New"
-msgstr ""
+msgstr "புதிய இடுகையை சேர்"
 
 #: wp-includes/post.php:1649
 msgctxt "page"
 msgid "Add New"
-msgstr ""
+msgstr "புதிய பக்கத்தை சேர்"
 
 #: wp-includes/post.php:1650
 msgid "Add New Post"
@@ -6127,8 +6150,8 @@ msgstr "பிம்பங்களை நிர்வகி"
 #: wp-includes/post.php:2477
 msgid "Image <span class=\"count\">(%s)</span>"
 msgid_plural "Images <span class=\"count\">(%s)</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "பிம்பம் <span class=\"count\">(%s)</span>"
+msgstr[1] "பிம்பங்கள் <span class=\"count\">(%s)</span>"
 
 #: wp-includes/post.php:2478
 msgid "Audio"
@@ -6319,7 +6342,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:109
 msgid "Inserted text"
-msgstr ""
+msgstr "நுழைக்கப்பட்ட உரை"
 
 #: wp-includes/script-loader.php:110
 msgid "Close inserted text tag"
@@ -6454,7 +6477,7 @@ msgstr "IO பிழை."
 
 #: wp-includes/script-loader.php:282
 msgid "Security error."
-msgstr ""
+msgstr "பாதுகாப்பு பிழை"
 
 #: wp-includes/script-loader.php:283
 msgid "File canceled."
@@ -6502,11 +6525,11 @@ msgstr "முழுத்திரைக்கு செல்"
 
 #: wp-includes/script-loader.php:346
 msgid "Unmute"
-msgstr ""
+msgstr "ஊமைநீக்கு"
 
 #: wp-includes/script-loader.php:347
 msgid "Mute"
-msgstr ""
+msgstr "ஊமையாக்கு"
 
 #: wp-includes/script-loader.php:348
 msgid "Captions/Subtitles"
@@ -6609,7 +6632,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:490
 msgid "Publish on:"
-msgstr ""
+msgstr "பிரசுரிக்கப்படும் நாள்:"
 
 #: wp-includes/script-loader.php:491
 msgid "Schedule for:"
@@ -6626,7 +6649,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:495
 msgid "Show more comments"
-msgstr ""
+msgstr "மேலும் பின்னூடங்களை காட்டு"
 
 #: wp-includes/script-loader.php:496
 msgid "No more comments found."
@@ -6642,7 +6665,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:500
 msgid "Save as Pending"
-msgstr ""
+msgstr "நிலுவையில் உள்ளதாக சேமி"
 
 #: wp-includes/script-loader.php:501
 msgid "Save Draft"
@@ -6662,7 +6685,7 @@ msgstr "கடவுச்சொல்லால் பாதுகாக்க�
 
 #: wp-includes/script-loader.php:506
 msgid "Privately Published"
-msgstr ""
+msgstr "அந்தரங்கமாக பிரசுரிக்கப்பட்டது"
 
 #: wp-includes/script-loader.php:509
 msgid "Saving Draft&#8230;"
@@ -6700,7 +6723,7 @@ msgstr "சொருகியின் விபரம்:"
 
 #: wp-includes/script-loader.php:557
 msgid "Are you sure you want to install this plugin?"
-msgstr ""
+msgstr "இந்த சொருகியை நிறுவ நீங்கள் கட்டாயம் வேண்டுகிறீர்களா?"
 
 #: wp-includes/script-loader.php:564
 msgid "Updating..."
@@ -6856,7 +6879,7 @@ msgstr ""
 #: wp-includes/taxonomy.php:497
 msgctxt "taxonomy general name"
 msgid "Categories"
-msgstr ""
+msgstr "வகையினங்கள்"
 
 #: wp-includes/taxonomy.php:498
 msgctxt "taxonomy singular name"
@@ -6866,7 +6889,7 @@ msgstr ""
 #: wp-includes/taxonomy.php:498
 msgctxt "taxonomy singular name"
 msgid "Category"
-msgstr ""
+msgstr "வகையினம்"
 
 #: wp-includes/taxonomy.php:499
 msgid "Search Tags"
@@ -6882,11 +6905,11 @@ msgstr ""
 
 #: wp-includes/taxonomy.php:501
 msgid "All Tags"
-msgstr ""
+msgstr "அனைத்து சொற்க்கூருகள்"
 
 #: wp-includes/taxonomy.php:501
 msgid "All Categories"
-msgstr ""
+msgstr "அனைத்து வகையினங்கள்"
 
 #: wp-includes/taxonomy.php:502
 msgid "Parent Category"
@@ -6967,7 +6990,7 @@ msgstr "காலி சொற்கூறு"
 
 #: wp-includes/taxonomy.php:2907 wp-includes/taxonomy.php:3479
 msgid "A name is required for this term"
-msgstr ""
+msgstr "இந்த சொற்கூற்றுக்கு ஒரு பெயர் தேவைப்படுகிறது"
 
 #: wp-includes/taxonomy.php:2968
 msgid "A term with the name provided already exists with this parent."
@@ -6979,7 +7002,7 @@ msgstr "இந்த சொல் ஏற்கனவே இந்த வகை�
 
 #: wp-includes/taxonomy.php:2979
 msgid "Could not insert term into the database"
-msgstr ""
+msgstr "தரவுத்தளத்தில் இந்த சொற்கூற்றை புகுத்த முடியவில்லை"
 
 #: wp-includes/taxonomy.php:3197
 msgid "Could not insert term relationship into the database"
@@ -7311,7 +7334,7 @@ msgstr "<strong>பிழை</strong>: உங்களது கணக்கு 
 
 #: wp-includes/user.php:1894
 msgid "Cannot create a user with an empty login name."
-msgstr ""
+msgstr "காலியான உள்நுழைவு பெயரை கொண்டு ஒரு பயனரை உருவாக்க இயலாது."
 
 #. translators: 1: first name, 2: last name
 #: wp-includes/user.php:1993
@@ -7359,6 +7382,20 @@ msgid ""
 "All at ###SITENAME###\n"
 "###SITEURL###"
 msgstr ""
+"வணக்கம் ###USERNAME###,\n"
+"\n"
+"இந்த அறிவிப்பு உங்களது மின்னஞ்சல் முகவரி ###SITENAME### தளத்தில் மாற்றப்பட்டதை "
+"உறுதிப்படுத்துகிறது. \n"
+"\n"
+"இதை நீங்கள் மாற்றவில்லை என்றால், தயவுசெய்து வளைதல நிர்வாகியை பின்வரும் மின்னஞ்சல் மூலம் "
+"தொடர்புகொள்ளவும். \n"
+"###ADMIN_EMAIL###\n"
+"\n"
+"இந்த மின்னஞ்சல் இந்த ###EMAIL###\n"
+" முகவரிக்கு அனுப்பப்பட்டது.\n"
+"இப்படிக்கு,\n"
+"###SITENAME###\n"
+"###SITEURL###"
 
 #: wp-includes/user.php:2272
 msgid "[%s] Notice of Email Change"
@@ -7696,7 +7733,7 @@ msgstr "நீங்கள் வெற்றிகரமாக உள்நு�
 #: wp-login.php:865
 msgid ""
 "Session expired. Please log in again. You will not move away from this page."
-msgstr ""
+msgstr "அமர்வு காலாவதியானது. மீண்டும் உள்நுழையவும். நீங்கள் இந்த பக்கத்தை விட்டு நகரமாட்டீர்கள்"
 
 #: wp-login.php:869
 msgid "You are now logged out."
@@ -7770,7 +7807,7 @@ msgstr ""
 
 #: wp-signup.php:109
 msgid "sitename"
-msgstr ""
+msgstr "தளப்பெயர்"
 
 #: wp-signup.php:111
 msgid "domain"
@@ -7982,7 +8019,7 @@ msgstr "பெயர்ப்பதிவு செயலிழக்கப்�
 #: wp-signup.php:673
 msgid ""
 "You must first <a href=\"%s\">log in</a>, and then you can create a new site."
-msgstr ""
+msgstr "நீங்கள் முதலில் <a href=\"%s\">உள்நுழைந்து</a>, பின் புதிய தளத்தை உருவாக்கவும்."
 
 #: wp-signup.php:681
 msgid "User registration has been disabled."
