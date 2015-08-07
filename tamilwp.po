@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-07 17:53+0530\n"
+"PO-Revision-Date: 2015-08-07 17:54+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -7738,7 +7738,7 @@ msgstr ""
 
 #: wp-mail.php:54
 msgid "There doesn&#8217;t seem to be any new mail."
-msgstr ""
+msgstr "புதிய மின்னஞ்சல் ஏதும் இருப்பதாக தெரியவில்லை."
 
 #: wp-mail.php:122
 msgid "Author is %s"
