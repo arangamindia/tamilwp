@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-07 17:33+0530\n"
+"PO-Revision-Date: 2015-08-07 17:53+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -150,7 +150,7 @@ msgstr ""
 
 #: wp-includes/admin-bar.php:188
 msgid "Howdy, %1$s"
-msgstr ""
+msgstr "எப்படி இருக்கிறீர், %s  அவர்களே!"
 
 #: wp-includes/admin-bar.php:240
 msgid "Edit My Profile"
@@ -220,7 +220,7 @@ msgstr "புதிய இடுகை"
 
 #: wp-includes/admin-bar.php:470
 msgid "Manage Comments"
-msgstr ""
+msgstr "பின்னூட்டங்களை நிர்வகி"
 
 #: wp-includes/admin-bar.php:504
 msgid "Shortlink"
@@ -315,7 +315,7 @@ msgstr "வகைபடுத்தப்படாதது"
 
 #: wp-includes/category-template.php:493 wp-includes/taxonomy.php:513
 msgid "No categories"
-msgstr ""
+msgstr "வகையினங்கள் இல்லை"
 
 #: wp-includes/category-template.php:501 wp-includes/default-widgets.php:644
 #: wp-includes/default-widgets.php:657 wp-includes/theme-compat/sidebar.php:63
@@ -388,7 +388,7 @@ msgstr ""
 #: wp-includes/class-wp-customize-nav-menus.php:480
 #: wp-includes/default-widgets.php:1585
 msgid "&mdash; Select &mdash;"
-msgstr ""
+msgstr "&mdash; தேர்ந்தெடு &mdash; "
 
 #: wp-includes/class-wp-customize-control.php:576
 #: wp-includes/class-wp-customize-control.php:691
@@ -421,7 +421,7 @@ msgstr "நீக்கு"
 
 #: wp-includes/class-wp-customize-control.php:693
 msgid "No file selected"
-msgstr ""
+msgstr "கோப்பு ஏதும் தேர்ந்தெடுக்கப்படவில்லை."
 
 #: wp-includes/class-wp-customize-control.php:695
 msgid "Choose File"
@@ -653,7 +653,7 @@ msgstr ""
 #: wp-includes/class-wp-editor.php:887 wp-includes/media-template.php:409
 #: wp-includes/media-template.php:589
 msgid "Description"
-msgstr ""
+msgstr "விரிவுரை"
 
 #: wp-includes/class-wp-customize-control.php:1743
 msgid ""
@@ -933,20 +933,20 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-nav-menus.php:369
 msgid "Move up one"
-msgstr ""
+msgstr "ஒரு படி மேலே நகர்த்து"
 
 #: wp-includes/class-wp-customize-nav-menus.php:370
 msgid "Move down one"
-msgstr ""
+msgstr "ஒரு படி கீழே நகர்த்து"
 
 #: wp-includes/class-wp-customize-nav-menus.php:371
 msgid "Move to the top"
-msgstr ""
+msgstr "உச்சிக்கு நகர்த்து"
 
 #. translators: %s: previous item name
 #: wp-includes/class-wp-customize-nav-menus.php:373
 msgid "Move under %s"
-msgstr ""
+msgstr "%s-க்கு அடியில் நகர்த்து"
 
 #. translators: %s: previous item name
 #: wp-includes/class-wp-customize-nav-menus.php:375
@@ -1034,11 +1034,11 @@ msgstr "கீழே தள்ளு"
 
 #: wp-includes/class-wp-customize-nav-menus.php:683
 msgid "Move one level up"
-msgstr ""
+msgstr "ஒரு அளவு மேலே நகர்த்து"
 
 #: wp-includes/class-wp-customize-nav-menus.php:684
 msgid "Move one level down"
-msgstr ""
+msgstr "ஒரு அளவு கீழே நகர்த்து"
 
 #: wp-includes/class-wp-customize-nav-menus.php:703
 #: wp-includes/class-wp-customize-panel.php:369
@@ -1091,7 +1091,7 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-nav-menus.php:763
 msgid "No items"
-msgstr ""
+msgstr "உருப்படிகள் இல்லை"
 
 #: wp-includes/class-wp-customize-panel.php:348
 msgid "Press return or enter to open this panel"
@@ -1340,7 +1340,7 @@ msgstr "எழுத்துரு குடும்பம்"
 
 #: wp-includes/class-wp-editor.php:843
 msgid "Font Sizes"
-msgstr ""
+msgstr "எழுத்துரு அளவு"
 
 #: wp-includes/class-wp-editor.php:845
 msgid "Align center"
@@ -1510,7 +1510,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:892
 msgid "General"
-msgstr ""
+msgstr "பொது"
 
 #: wp-includes/class-wp-editor.php:893
 msgid "Advanced"
@@ -1550,7 +1550,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:902
 msgid "Insert date/time"
-msgstr ""
+msgstr "தேதி/நேரத்தை இணை"
 
 #: wp-includes/class-wp-editor.php:903
 msgid "Insert/edit video"
@@ -1847,7 +1847,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:982 wp-includes/media-template.php:965
 msgid "Height"
-msgstr ""
+msgstr "உயரம்"
 
 #: wp-includes/class-wp-editor.php:983 wp-includes/media-template.php:965
 msgid "Width"
@@ -1871,7 +1871,7 @@ msgstr ""
 #: wp-includes/class-wp-editor.php:990
 msgctxt "table cell alignment attribute"
 msgid "None"
-msgstr ""
+msgstr "ஏதுமில்லை"
 
 #: wp-includes/class-wp-editor.php:991
 msgctxt "vertical table cell alignment"
@@ -1983,7 +1983,7 @@ msgstr ""
 #: wp-includes/class-wp-editor.php:1020
 msgctxt "TinyMCE menu"
 msgid "Insert"
-msgstr ""
+msgstr "நுழை"
 
 #: wp-includes/class-wp-editor.php:1021
 msgctxt "TinyMCE menu"
@@ -3309,7 +3309,7 @@ msgstr ""
 
 #: wp-includes/default-widgets.php:914
 msgid "Display post date?"
-msgstr ""
+msgstr "இடுகை தேதியை காட்டவா?"
 
 #: wp-includes/default-widgets.php:927
 msgid "Your site&#8217;s most recent comments."
@@ -3923,7 +3923,7 @@ msgstr ""
 #: wp-includes/general-template.php:1226
 msgctxt "post format archive title"
 msgid "Images"
-msgstr ""
+msgstr "பிம்பங்கள்"
 
 #: wp-includes/general-template.php:1228
 msgctxt "post format archive title"
@@ -4047,7 +4047,7 @@ msgstr ""
 #: wp-includes/general-template.php:2954
 msgctxt "admin color scheme"
 msgid "Midnight"
-msgstr ""
+msgstr "நள்ளிரவு"
 
 #: wp-includes/general-template.php:2960
 msgctxt "admin color scheme"
@@ -4062,7 +4062,7 @@ msgstr ""
 #: wp-includes/general-template.php:2972
 msgctxt "admin color scheme"
 msgid "Ocean"
-msgstr ""
+msgstr "பெருங்கடல்"
 
 #: wp-includes/general-template.php:2978
 msgctxt "admin color scheme"
@@ -4445,7 +4445,7 @@ msgstr ""
 #: wp-includes/locale.php:185
 msgctxt "text direction"
 msgid "ltr"
-msgstr ""
+msgstr "இடமிருந்து வலம்"
 
 #. translators: %s: Name of the directory (build)
 #: wp-includes/locale.php:199
@@ -4618,7 +4618,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:477
 msgid "Deselect"
-msgstr ""
+msgstr "தேர்வுநீக்கு"
 
 #: wp-includes/media-template.php:484
 msgid "Caption this image&hellip;"
@@ -4751,7 +4751,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:869 wp-includes/media-template.php:981
 msgid "Image URL"
-msgstr ""
+msgstr "பிம்ப வலைமுகவரி"
 
 #: wp-includes/media-template.php:891
 msgid "Edit Original"
@@ -4849,7 +4849,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:1236 wp-includes/media.php:3057
 msgid "No items found."
-msgstr ""
+msgstr "உருப்படிகள் எதுவும் கிடைக்கவில்லை"
 
 #: wp-includes/media-template.php:1248
 msgid "As a browser icon"
@@ -6303,7 +6303,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:104
 msgid "Insert link"
-msgstr ""
+msgstr "இணைப்பை இணை"
 
 #: wp-includes/script-loader.php:106
 msgid "Close blockquote tag"
@@ -6470,7 +6470,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:287
 msgid "moved to the trash."
-msgstr ""
+msgstr "குப்பைத்தொட்டிக்கு நகரத்தப்பட்டது"
 
 #: wp-includes/script-loader.php:288
 msgid "&#8220;%s&#8221; has failed to upload."
@@ -6906,11 +6906,11 @@ msgstr "வகையினத்தை திருத்து"
 
 #: wp-includes/taxonomy.php:505
 msgid "View Tag"
-msgstr ""
+msgstr "சொற்க்கூற்றை பார்"
 
 #: wp-includes/taxonomy.php:505
 msgid "View Category"
-msgstr ""
+msgstr "வகையினத்தை பார்"
 
 #: wp-includes/taxonomy.php:506
 msgid "Update Tag"
@@ -6954,7 +6954,7 @@ msgstr ""
 
 #: wp-includes/taxonomy.php:512
 msgid "No categories found."
-msgstr ""
+msgstr "வகையினங்கள் ஏதும் கிடைக்கவில்லை."
 
 #: wp-includes/taxonomy.php:513
 msgid "No tags"
@@ -7523,6 +7523,8 @@ msgid ""
 "Need more help? <a href='https://codex.wordpress.org/Editing_wp-config."
 "php'>We got it</a>."
 msgstr ""
+"மேலும் உதவி தேவைப்படுகிறதா? <a href='https://codex.wordpress.org/Editing_wp-"
+"config.php'>நாங்க இருக்கோம்</a>."
 
 #: wp-load.php:77
 msgid ""
@@ -7598,6 +7600,7 @@ msgstr ""
 #: wp-login.php:534
 msgid "Your password reset link has expired. Please request a new link below."
 msgstr ""
+"உங்களது கடவுச்சொல் மீளமைப்பு இணைப்பு காலவதியாகிவிட்டது. புதிய இணைப்பை கீழே வேண்டவும்."
 
 #: wp-login.php:555
 msgid "Lost Password"
@@ -7720,6 +7723,8 @@ msgid ""
 "<strong>You have successfully updated WordPress!</strong> Please log back in "
 "to see what&#8217;s new."
 msgstr ""
+"<strong>நீங்கள் வெற்றிகரமாக வோர்ட்பிரஸ்ஸை மேம்படுதிவிட்டீர்கள் !</strong> புயதையை "
+"இருப்பதாய் காண மீண்டும் உள்நுழையவும்."
 
 #: wp-mail.php:15
 msgid "This action has been disabled by the administrator."
