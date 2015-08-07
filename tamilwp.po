@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-07 17:54+0530\n"
+"PO-Revision-Date: 2015-08-07 18:21+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -1332,7 +1332,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:841
 msgid "Source code"
-msgstr ""
+msgstr "மென்பொருள் மூலம்"
 
 #: wp-includes/class-wp-editor.php:842
 msgid "Font Family"
@@ -1421,7 +1421,7 @@ msgstr ""
 #: wp-includes/class-wp-editor.php:866
 msgctxt "list style"
 msgid "Square"
-msgstr ""
+msgstr "சதுரம்"
 
 #: wp-includes/class-wp-editor.php:867
 msgctxt "list style"
@@ -1518,7 +1518,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:894
 msgid "Source"
-msgstr ""
+msgstr "மூலம்"
 
 #: wp-includes/class-wp-editor.php:895
 msgid "Border"
@@ -2351,7 +2351,7 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:1213
 msgid "Sorry, you cannot stick a private post."
-msgstr ""
+msgstr "மன்னிக்கவும், அந்தரங்க இடுகையை ஓட்ட இயலாது."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1221
 msgid "Sorry, you are not allowed to stick this post."
@@ -4916,7 +4916,7 @@ msgstr "மேம்படுத்து"
 #. translate it.
 #: wp-includes/media.php:3041
 msgid "%d selected"
-msgstr ""
+msgstr "%d தேர்ந்தெடுக்கப்பட்டது"
 
 #: wp-includes/media.php:3042
 msgid "Drag and drop to reorder media files."
@@ -5863,7 +5863,7 @@ msgstr ""
 
 #: wp-includes/post-template.php:1811
 msgid "%1$s [Current Revision]"
-msgstr ""
+msgstr "%1$s [தற்போதைய திருத்தம்]"
 
 #: wp-includes/post-template.php:1857
 msgid "JavaScript must be enabled to use this feature."
@@ -7279,7 +7279,7 @@ msgstr[1] ""
 
 #: wp-includes/update.php:563
 msgid "Translation Updates"
-msgstr ""
+msgstr "மொழிபெயர்ப்பு மேம்பாடுகள்"
 
 #: wp-includes/user.php:128
 msgid "<strong>ERROR</strong>: The username field is empty."
