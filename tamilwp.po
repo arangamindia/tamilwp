@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-07 17:16+0530\n"
+"PO-Revision-Date: 2015-08-07 17:29+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -142,7 +142,7 @@ msgstr ""
 
 #: wp-includes/admin-bar.php:151
 msgid "https://wordpress.org/support/forum/requests-and-feedback"
-msgstr ""
+msgstr "https://wordpress.org/support/forum/requests-and-feedback"
 
 #: wp-includes/admin-bar.php:166
 msgid "Menu"
@@ -1070,7 +1070,7 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-nav-menus.php:719
 msgid "The search results will be updated as you type."
-msgstr ""
+msgstr "தேடல் முடிவுகள் நீங்கள் தட்டச்சு செய்யும் போதே மேம்படுத்தப்படும்."
 
 #: wp-includes/class-wp-customize-nav-menus.php:726
 msgid "Custom Links"
@@ -1720,12 +1720,12 @@ msgstr ""
 #: wp-includes/class-wp-editor.php:947
 msgctxt "spellcheck"
 msgid "Ignore all"
-msgstr ""
+msgstr "எல்லாவற்றையும் புறக்கணி"
 
 #: wp-includes/class-wp-editor.php:948
 msgctxt "spellcheck"
 msgid "Ignore"
-msgstr ""
+msgstr "புறக்கணி"
 
 #: wp-includes/class-wp-editor.php:949
 msgid "Add to Dictionary"
@@ -1851,7 +1851,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:983 wp-includes/media-template.php:965
 msgid "Width"
-msgstr ""
+msgstr "அகலம்"
 
 #: wp-includes/class-wp-editor.php:984 wp-includes/media-template.php:399
 #: wp-includes/media-template.php:579 wp-includes/media-template.php:837
@@ -1880,7 +1880,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:992
 msgid "Top"
-msgstr ""
+msgstr "உச்சி"
 
 #: wp-includes/class-wp-editor.php:993
 msgid "Middle"
@@ -2394,7 +2394,7 @@ msgstr "மன்னிக்கவும், இந்த இடுகையை
 #: wp-includes/class-wp-xmlrpc-server.php:1263
 #: wp-includes/class-wp-xmlrpc-server.php:5075
 msgid "The post type may not be changed."
-msgstr ""
+msgstr "இந்த இடுகை வகை மாற்றப்படமுடியாது"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1266
 #: wp-includes/class-wp-xmlrpc-server.php:4493
@@ -2493,7 +2493,7 @@ msgstr "மன்னிக்கவும் ! இந்த இடுகைய�
 
 #: wp-includes/class-wp-xmlrpc-server.php:1731
 msgid "The post type specified is not valid"
-msgstr ""
+msgstr "குறிப்பிட்ட இடுகை வகை செல்லுபடியானது இல்லை"
 
 #: wp-includes/class-wp-xmlrpc-server.php:1737
 msgid "Sorry, you are not allowed to edit posts in this post type"
@@ -2788,11 +2788,11 @@ msgstr "இந்த பயனாராக நீங்கள் பக்கங
 
 #: wp-includes/class-wp-xmlrpc-server.php:5126
 msgid "You are not allowed to change the post author as this user."
-msgstr ""
+msgstr "இந்த பயனராக பக்க எழுதியோனை மாற்ற இயலாது."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5131
 msgid "You are not allowed to change the page author as this user."
-msgstr ""
+msgstr "இந்த பயனராக பக்க எழுதியோனை மாற்ற இயலாது."
 
 #: wp-includes/class-wp-xmlrpc-server.php:5239
 msgid "Sorry, you do not have the right to publish this page."
@@ -2838,7 +2838,7 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:6194
 msgid "The source URL does not exist."
-msgstr ""
+msgstr "இந்த மூல வலைமுகவரி இருக்கவில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:6214
 msgid "We cannot find a title on that page."
@@ -2959,7 +2959,7 @@ msgstr ""
 
 #: wp-includes/comment-template.php:1931 wp-includes/comment-template.php:1993
 msgid "Your comment is awaiting moderation."
-msgstr ""
+msgstr "உங்களது பின்னூட்டம் மட்டுறுத்தலுக்காக காத்திருக்கிறது."
 
 #. translators: 1: date, 2: time
 #: wp-includes/comment-template.php:1938
@@ -3045,7 +3045,7 @@ msgstr ""
 
 #: wp-includes/comment.php:1499 wp-includes/comment.php:1501
 msgid "You are posting comments too quickly. Slow down."
-msgstr ""
+msgstr "நீங்கள் மிக வேகமாக பின்னூட்டத்தை இடுகிறீர்கள். மெதுவாக பின்னூட்டமிடவும்."
 
 #: wp-includes/comment.php:2467
 msgid "Could not update comment status"
@@ -3756,7 +3756,7 @@ msgstr ""
 
 #: wp-includes/functions.php:4186 wp-includes/functions.php:4190
 msgid "UTC"
-msgstr ""
+msgstr "UTC"
 
 #: wp-includes/functions.php:4194
 msgid "Manual Offsets"
@@ -3890,7 +3890,7 @@ msgstr "வருடம் %s"
 #: wp-includes/general-template.php:1215
 msgctxt "yearly archives date format"
 msgid "Y"
-msgstr ""
+msgstr "வ"
 
 #: wp-includes/general-template.php:1217
 msgid "Month: %s"
@@ -4158,6 +4158,8 @@ msgid ""
 "Your PHP installation appears to be missing the MySQL extension which is "
 "required by WordPress."
 msgstr ""
+"உங்களது PHP நிறுவமைப்பில் MySQL நீட்டியை கொண்டிருக்கவில்லை. அது வோர்ட்பிரஸ் வேலை செய்ய "
+"தேவைப்படுகிறது."
 
 #: wp-includes/load.php:185
 msgid "Maintenance"
@@ -5013,7 +5015,7 @@ msgstr "தேர்வை ரத்துசெய்"
 
 #: wp-includes/media.php:3067
 msgid "Trash Selected"
-msgstr ""
+msgstr "தேர்ந்தெடுத்ததை குப்பையிலிடு"
 
 #: wp-includes/media.php:3068
 msgid "Untrash Selected"
@@ -5652,7 +5654,7 @@ msgstr ""
 
 #: wp-includes/pluggable.php:1478 wp-includes/pluggable.php:1603
 msgid "Trash it: %s"
-msgstr ""
+msgstr "இதை குப்பையிலிடு: %s"
 
 #: wp-includes/pluggable.php:1480 wp-includes/pluggable.php:1605
 msgid "Delete it: %s"
@@ -5974,7 +5976,7 @@ msgstr[1] ""
 #: wp-includes/post.php:147
 msgctxt "post"
 msgid "Trash"
-msgstr ""
+msgstr "குப்பையிலிடு"
 
 #: wp-includes/post.php:150
 msgid "Trash <span class=\"count\">(%s)</span>"
@@ -6214,7 +6216,7 @@ msgstr ""
 
 #: wp-includes/query.php:729
 msgid "https://codex.wordpress.org/Function_Reference/is_main_query"
-msgstr ""
+msgstr "https://codex.wordpress.org/Function_Reference/is_main_query"
 
 #. translators: This is a comma-separated list of very common words that should
 #. be excluded from a search, like a, an, and the. These are usually called
@@ -7223,11 +7225,11 @@ msgstr ""
 
 #: wp-includes/theme-compat/sidebar.php:74
 msgid "XHTML Friends Network"
-msgstr ""
+msgstr "XHTML Friends Network"
 
 #: wp-includes/theme-compat/sidebar.php:74
 msgid "XFN"
-msgstr ""
+msgstr "XFN"
 
 #: wp-includes/theme.php:1554
 msgid "You need to pass an array of types."
@@ -7368,7 +7370,7 @@ msgstr ""
 
 #: wp-includes/user.php:2382
 msgid "Yahoo IM"
-msgstr ""
+msgstr "யாஹூ உடனடி அரட்டை"
 
 #: wp-includes/user.php:2383
 msgid "Jabber / Google Talk"
@@ -7676,7 +7678,7 @@ msgstr ""
 
 #: wp-login.php:809 wp-login.php:813
 msgid "https://codex.wordpress.org/Cookies"
-msgstr ""
+msgstr "https://codex.wordpress.org/Cookies"
 
 #: wp-login.php:812
 msgid ""
