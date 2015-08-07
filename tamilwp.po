@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-07 17:29+0530\n"
+"PO-Revision-Date: 2015-08-07 17:33+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -1604,7 +1604,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:917
 msgid "Paste as text"
-msgstr ""
+msgstr "உரையாக ஒட்டு"
 
 #: wp-includes/class-wp-editor.php:918 wp-includes/media-template.php:1247
 msgid "Preview"
@@ -3685,7 +3685,7 @@ msgstr ""
 
 #: wp-includes/functions.php:2336 wp-includes/ms-functions.php:1939
 msgid "Please try again."
-msgstr ""
+msgstr "மீண்டும் முயற்சிக்கவும்."
 
 #: wp-includes/functions.php:2339
 msgid "WordPress Failure Notice"
@@ -5872,7 +5872,7 @@ msgstr ""
 #: wp-includes/post.php:22
 msgctxt "add new on admin bar"
 msgid "Post"
-msgstr ""
+msgstr "இடுகை"
 
 #: wp-includes/post.php:38
 msgctxt "add new on admin bar"
@@ -6019,7 +6019,7 @@ msgstr ""
 #: wp-includes/post.php:1648
 msgctxt "post type singular name"
 msgid "Post"
-msgstr ""
+msgstr "இடுகை"
 
 #: wp-includes/post.php:1648
 msgctxt "post type singular name"
@@ -6575,7 +6575,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:423
 msgid "Save &amp; Publish"
-msgstr ""
+msgstr "சேமித்து பின் பிரசுரி"
 
 #: wp-includes/script-loader.php:425
 msgid "Saved"
@@ -6696,7 +6696,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:556
 msgid "Plugin Information:"
-msgstr ""
+msgstr "சொருகியின் விபரம்:"
 
 #: wp-includes/script-loader.php:557
 msgid "Are you sure you want to install this plugin?"
@@ -6747,7 +6747,7 @@ msgstr "மேம்பாடு நிறுத்தப்பட்டது."
 
 #: wp-includes/script-loader.php:580
 msgid "Plugin updates may not complete if you navigate away from this page."
-msgstr ""
+msgstr "சொருகிகளின் மேம்படுத்தல் இந்த பக்கத்தை விட்டு சென்றால் நிறுத்தப்படலாம்."
 
 #: wp-includes/script-loader.php:591
 msgid "Select Color"
@@ -7587,7 +7587,7 @@ msgstr "மின்னஞ்சலை அனுப்ப இயலவில்�
 
 #: wp-login.php:410
 msgid "Possible reason: your host may have disabled the mail() function."
-msgstr ""
+msgstr "சாத்தியமுள்ள காரணம்: நீங்கள் mail()  செயலியை முடக்கி இருக்கலாம்."
 
 #: wp-login.php:532
 msgid ""
