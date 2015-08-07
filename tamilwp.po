@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-06 20:59+0530\n"
+"PO-Revision-Date: 2015-08-07 10:30+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -1608,7 +1608,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:918 wp-includes/media-template.php:1247
 msgid "Preview"
-msgstr ""
+msgstr "முன்னோட்டம்"
 
 #: wp-includes/class-wp-editor.php:919
 msgid "Print"
@@ -1729,7 +1729,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:949
 msgid "Add to Dictionary"
-msgstr ""
+msgstr "அகராதியில் சேர்த்துவிடு"
 
 #: wp-includes/class-wp-editor.php:952
 msgid "Insert table"
@@ -2407,7 +2407,7 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:1280
 msgid "Sorry, you are not allowed to publish posts in this post type"
-msgstr ""
+msgstr "மன்னிக்கவும், இந்த இடுகை வகையில் இடுகைகளை பிரசுரிக்க உங்களுக்கு அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1289
 msgid ""
@@ -2494,7 +2494,7 @@ msgstr ""
 
 #: wp-includes/class-wp-xmlrpc-server.php:1737
 msgid "Sorry, you are not allowed to edit posts in this post type"
-msgstr ""
+msgstr "மன்னிக்கவும், இந்த இடுகை வகையில் இடுகைகளை திருத்த உங்களுக்கு அனுமதியில்லை."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1815
 #: wp-includes/class-wp-xmlrpc-server.php:1902
@@ -2516,7 +2516,7 @@ msgstr "இந்த வகைப்பாட்டில் சொற்கூ�
 #: wp-includes/class-wp-xmlrpc-server.php:1829
 #: wp-includes/class-wp-xmlrpc-server.php:1926
 msgid "The term name cannot be empty."
-msgstr ""
+msgstr "சொற்கூறு காலியாக இருக்ககூடாது."
 
 #: wp-includes/class-wp-xmlrpc-server.php:1833
 msgid "This taxonomy is not hierarchical."
@@ -3014,7 +3014,7 @@ msgstr "பதிலை ரத்துசெய்"
 
 #: wp-includes/comment-template.php:2267
 msgid "Post Comment"
-msgstr ""
+msgstr "பின்னூட்டத்தை பதிவிடு"
 
 #: wp-includes/comment.php:1026
 msgid "Unapproved"
@@ -3086,7 +3086,7 @@ msgstr ""
 
 #: wp-includes/default-widgets.php:17
 msgid "A list of your site&#8217;s Pages."
-msgstr ""
+msgstr "உங்களது தளங்களின் பக்கங்கள்."
 
 #: wp-includes/default-widgets.php:18 wp-includes/default-widgets.php:36
 #: wp-includes/post-template.php:1110 wp-includes/theme-compat/sidebar.php:55
@@ -3108,11 +3108,11 @@ msgstr ""
 
 #: wp-includes/default-widgets.php:106
 msgid "Page title"
-msgstr ""
+msgstr "பக்கத்தின் தலைப்பு"
 
 #: wp-includes/default-widgets.php:107
 msgid "Page order"
-msgstr ""
+msgstr "பக்கத்தின் வரிசை"
 
 #: wp-includes/default-widgets.php:108
 msgid "Page ID"
@@ -3225,7 +3225,7 @@ msgstr ""
 
 #: wp-includes/default-widgets.php:423 wp-includes/default-widgets.php:765
 msgid "Show post counts"
-msgstr ""
+msgstr "இடுகை எண்ணிக்கைகளை காட்டு"
 
 #: wp-includes/default-widgets.php:439
 msgid "Login, RSS, &amp; WordPress.org links."
@@ -3421,15 +3421,15 @@ msgstr ""
 #: wp-includes/media-template.php:1086 wp-includes/media-template.php:1175
 #: wp-includes/script-loader.php:343
 msgid "None"
-msgstr ""
+msgstr "ஏதுமில்லை"
 
 #: wp-includes/deprecated.php:985
 msgid "Last updated"
-msgstr ""
+msgstr "கடைசியாக மேம்படுத்தியது"
 
 #: wp-includes/deprecated.php:1899 wp-includes/post-template.php:1572
 msgid "Missing Attachment"
-msgstr ""
+msgstr "இணைப்பை காணவில்லை"
 
 #: wp-includes/deprecated.php:2731
 msgid "First Post"
@@ -3806,11 +3806,11 @@ msgstr ""
 #: wp-includes/general-template.php:276 wp-login.php:578 wp-login.php:641
 #: wp-login.php:685 wp-login.php:767
 msgid "Log in"
-msgstr ""
+msgstr "உள்நுழை"
 
 #: wp-includes/general-template.php:278
 msgid "Log out"
-msgstr ""
+msgstr "வெளியேறு"
 
 #: wp-includes/general-template.php:388 wp-login.php:745 wp-login.php:911
 msgid "Username"
@@ -3818,20 +3818,20 @@ msgstr "பயனர்பெயர்"
 
 #: wp-includes/general-template.php:389 wp-login.php:915
 msgid "Password"
-msgstr ""
+msgstr "கடவுச்சொல்"
 
 #: wp-includes/general-template.php:390 wp-login.php:926
 msgid "Remember Me"
-msgstr ""
+msgstr "என்னை நினைவில்கொள்"
 
 #: wp-includes/general-template.php:391 wp-login.php:896 wp-login.php:928
 msgid "Log In"
-msgstr ""
+msgstr "உள்நுழை"
 
 #: wp-includes/general-template.php:518 wp-login.php:581 wp-login.php:688
 #: wp-login.php:763 wp-login.php:945
 msgid "Register"
-msgstr ""
+msgstr "வெளியேறு"
 
 #: wp-includes/general-template.php:522
 msgid "Site Admin"
@@ -3868,11 +3868,11 @@ msgstr "பக்கம் %s"
 
 #: wp-includes/general-template.php:1209
 msgid "Category: %s"
-msgstr ""
+msgstr "வகையினம்: %s"
 
 #: wp-includes/general-template.php:1211
 msgid "Tag: %s"
-msgstr ""
+msgstr "சொற்கூறு : %s"
 
 #: wp-includes/general-template.php:1213
 msgid "Author: %s"
@@ -5322,7 +5322,7 @@ msgstr "மன்னிக்கவும், வலைதள பெயரில
 
 #: wp-includes/ms-functions.php:667
 msgid "Please enter a site title."
-msgstr ""
+msgstr "தளத்திற்கு ஒரு தலைப்பினை கொடுக்கவும்."
 
 #: wp-includes/ms-functions.php:678 wp-includes/ms-functions.php:1152
 msgid "Sorry, that site already exists!"
@@ -5409,7 +5409,7 @@ msgstr ""
 
 #: wp-includes/ms-functions.php:1280
 msgid "New User Registration: %s"
-msgstr ""
+msgstr "புதிய பயனர் பெயர்ப்பதிவு : %s "
 
 #: wp-includes/ms-functions.php:1375
 msgid "Already Installed"
@@ -5491,7 +5491,7 @@ msgstr ""
 
 #: wp-includes/ms-load.php:92
 msgid "This site is no longer available."
-msgstr ""
+msgstr "இந்த தளம் இப்போது கிடைக்கக்கூடியதாக இல்லை."
 
 #: wp-includes/ms-load.php:99
 msgid ""
@@ -6592,7 +6592,7 @@ msgstr "அனுமதிக்கப்பட்ட கோப்புகள�
 
 #: wp-includes/script-loader.php:472
 msgid "Approve and Reply"
-msgstr ""
+msgstr "அங்கீகரி மற்றும் பதிலளி"
 
 #: wp-includes/script-loader.php:474
 msgid ""
@@ -6610,7 +6610,7 @@ msgstr ""
 
 #: wp-includes/script-loader.php:492
 msgid "Published on:"
-msgstr ""
+msgstr "பிரசுரித்த நாள்: "
 
 #. translators: 1: month, 2: day, 3: year, 4: hour, 5: minute
 #: wp-includes/script-loader.php:494 wp-includes/script-loader.php:532
@@ -7887,7 +7887,7 @@ msgstr ""
 
 #: wp-signup.php:626
 msgid "Congratulations! Your new site, %s, is almost ready."
-msgstr ""
+msgstr "வாழ்த்துக்கள் ! உங்களது புதிய தளமான %s கிட்டத்தட்ட தயாராகிவிட்டது."
 
 #: wp-signup.php:628
 msgid ""
