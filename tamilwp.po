@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-08 03:18+0530\n"
+"PO-Revision-Date: 2015-08-09 23:27+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -320,7 +320,7 @@ msgstr "வகையினங்கள் இல்லை"
 #: wp-includes/category-template.php:501 wp-includes/default-widgets.php:644
 #: wp-includes/default-widgets.php:657 wp-includes/theme-compat/sidebar.php:63
 msgid "Categories"
-msgstr ""
+msgstr "வகையினங்கள்"
 
 #: wp-includes/category-template.php:752 wp-includes/category-template.php:761
 msgid "%s topic"
@@ -338,11 +338,11 @@ msgstr ""
 
 #: wp-includes/class-http.php:195 wp-includes/class-wp-xmlrpc-server.php:6112
 msgid "A valid URL was not provided."
-msgstr ""
+msgstr "ஒரு செல்லுபடியான வலைமுகவரியை கொடுக்கவில்லை."
 
 #: wp-includes/class-http.php:198
 msgid "User has blocked requests through HTTP."
-msgstr ""
+msgstr "பயனர் HTTP  மூலம் அனுப்பும் வேண்டல்களை முடக்கியுள்ளார்."
 
 #: wp-includes/class-http.php:226
 msgid ""
@@ -468,7 +468,7 @@ msgstr "பிம்பத்தை நீக்கு"
 
 #: wp-includes/class-wp-customize-control.php:1226
 msgid "Set image"
-msgstr ""
+msgstr "பிம்பத்தை அமை"
 
 #: wp-includes/class-wp-customize-control.php:1241
 msgid "Randomizing uploaded headers"
@@ -480,7 +480,7 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-control.php:1259
 msgid "No image set"
-msgstr ""
+msgstr "பிம்பம் ஏதும் அமைக்கவில்லை"
 
 #: wp-includes/class-wp-customize-control.php:1293
 msgid ""
@@ -505,11 +505,11 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-control.php:1303
 msgid "Current header"
-msgstr ""
+msgstr "தற்போதைய தலைப்பு"
 
 #: wp-includes/class-wp-customize-control.php:1310
 msgid "Hide header image"
-msgstr ""
+msgstr "தலைப்பு பிம்பத்தை மறைத்திடு"
 
 #: wp-includes/class-wp-customize-control.php:1310
 msgid "Hide image"
@@ -517,7 +517,7 @@ msgstr "பிம்பத்தை மறைத்திடு"
 
 #: wp-includes/class-wp-customize-control.php:1311
 msgid "Add new header image"
-msgstr ""
+msgstr "புதிய தலைப்பு பிம்பத்தை சேர்"
 
 #: wp-includes/class-wp-customize-control.php:1311
 msgid "Add new image"
@@ -526,7 +526,7 @@ msgstr "புதிய பிம்பத்தை சேர்"
 #: wp-includes/class-wp-customize-control.php:1317
 msgctxt "custom headers"
 msgid "Previously uploaded"
-msgstr ""
+msgstr "முன்னதாக பதிவேற்றியது"
 
 #: wp-includes/class-wp-customize-control.php:1324
 msgctxt "custom headers"
@@ -572,7 +572,7 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-control.php:1575
 msgid "Add Items"
-msgstr ""
+msgstr "உருப்படிகளை சேர்"
 
 #: wp-includes/class-wp-customize-control.php:1577
 #: wp-includes/class-wp-customize-nav-menus.php:352
@@ -719,11 +719,11 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-manager.php:1401
 msgid "Header Text Color"
-msgstr ""
+msgstr "தலைப்பு உரை நிறம்"
 
 #: wp-includes/class-wp-customize-manager.php:1416
 msgid "Background Color"
-msgstr ""
+msgstr "பின்புல நிறம்"
 
 #: wp-includes/class-wp-customize-manager.php:1466
 msgid "Background Repeat"
@@ -759,7 +759,7 @@ msgstr "இடம்"
 #: wp-includes/class-wp-editor.php:988 wp-includes/media-template.php:623
 #: wp-includes/media-template.php:854 wp-includes/media-template.php:920
 msgid "Center"
-msgstr ""
+msgstr "நடு"
 
 #: wp-includes/class-wp-customize-manager.php:1489
 #: wp-includes/class-wp-editor.php:989 wp-includes/media-template.php:626
@@ -797,7 +797,7 @@ msgstr "உங்களது அண்மைய இடுகைகள்"
 
 #: wp-includes/class-wp-customize-manager.php:1541
 msgid "A static page"
-msgstr ""
+msgstr "ஒரு நிலைமாறா பக்கம்"
 
 #: wp-includes/class-wp-customize-manager.php:1552
 msgid "Front page"
@@ -892,12 +892,12 @@ msgstr ""
 #. translators: %s: title of menu item which is invalid
 #: wp-includes/class-wp-customize-nav-menus.php:342
 msgid "%s (Invalid)"
-msgstr ""
+msgstr "%s  (செல்லுபடியாகாதது)"
 
 #. translators: %s: title of menu item in draft status
 #: wp-includes/class-wp-customize-nav-menus.php:344
 msgid "%s (Pending)"
-msgstr ""
+msgstr "%s  (நிலுவையுள்ளது)"
 
 #: wp-includes/class-wp-customize-nav-menus.php:345
 msgid "Taxonomy"
@@ -917,7 +917,7 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-nav-menus.php:349
 msgid "Loading more results... please wait."
-msgstr ""
+msgstr "மேலும் முடிவுகள் ஏற்றுகிறது... தயவுசெய்து காத்திருக்கவும்."
 
 #: wp-includes/class-wp-customize-nav-menus.php:350
 msgid "Reorder mode enabled"
@@ -1143,7 +1143,7 @@ msgstr ""
 #: wp-includes/class-wp-customize-section.php:416
 msgctxt "theme"
 msgid "Change"
-msgstr ""
+msgstr "மாற்று"
 
 #: wp-includes/class-wp-customize-section.php:440
 #: wp-includes/class-wp-customize-section.php:441
@@ -1344,15 +1344,15 @@ msgstr "எழுத்துரு அளவு"
 
 #: wp-includes/class-wp-editor.php:845
 msgid "Align center"
-msgstr ""
+msgstr "நடுப்பக்கம் ஒழுங்குசெய்"
 
 #: wp-includes/class-wp-editor.php:846
 msgid "Align right"
-msgstr ""
+msgstr "வலதுபுறம் ஒழுங்குசெய்"
 
 #: wp-includes/class-wp-editor.php:847
 msgid "Align left"
-msgstr ""
+msgstr "இடதுபுறம் ஒழுங்குசெய்"
 
 #: wp-includes/class-wp-editor.php:848
 msgid "Justify"
@@ -3008,6 +3008,8 @@ msgid ""
 "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
 "this account\">Log out?</a>"
 msgstr ""
+"<a href=\"%1$s\">%2$s</a> ஆக உள்நுழைந்து உள்ளீர்கள்.. <a href=\"%3$s\" title=\"இந்த "
+"கணக்கிலிருந்து வெளியேறு\">வெளியேறவா?</a>"
 
 #: wp-includes/comment-template.php:2258
 msgid "Your email address will not be published."
@@ -3029,7 +3031,7 @@ msgstr "அங்கீகரிக்கபடாதது"
 #: wp-includes/comment.php:1028
 msgctxt "adjective"
 msgid "Approved"
-msgstr ""
+msgstr "அங்கீகரிக்கப்பட்டது"
 
 #. translators: comment status
 #: wp-includes/comment.php:1030
@@ -3049,7 +3051,7 @@ msgstr "நீங்கள் மிக வேகமாக பின்னூட
 
 #: wp-includes/comment.php:2467
 msgid "Could not update comment status"
-msgstr ""
+msgstr "பின்னூட்டத்தின் நிலையை மேம்படுத்த இயலவில்லை."
 
 #: wp-includes/cron.php:173
 msgid ""
@@ -3327,7 +3329,7 @@ msgstr ""
 
 #: wp-includes/default-widgets.php:1078
 msgid "Number of comments to show:"
-msgstr ""
+msgstr "காட்ட வேண்டிய பின்னூட்டங்களின் எண்ணிக்கை:"
 
 #: wp-includes/default-widgets.php:1092
 msgid "Entries from any RSS or Atom feed."
@@ -3343,7 +3345,7 @@ msgstr ""
 
 #: wp-includes/default-widgets.php:1196
 msgid "<strong>RSS Error</strong>: %s"
-msgstr ""
+msgstr "<strong>RSS பிழை</strong>: %s"
 
 #: wp-includes/default-widgets.php:1211 wp-includes/rss.php:919
 msgid ""
@@ -3357,7 +3359,7 @@ msgstr "பெயரிடப்படாதது"
 
 #: wp-includes/default-widgets.php:1306
 msgid "RSS Error: %s"
-msgstr ""
+msgstr "RSS பிழை: %s"
 
 #: wp-includes/default-widgets.php:1311
 msgid "Enter the RSS feed URL here:"
@@ -3462,7 +3464,7 @@ msgstr ""
 
 #: wp-includes/feed-atom-comments.php:32
 msgid "Comments on %s"
-msgstr ""
+msgstr "%s-க்கான பின்னூட்டங்கள்"
 
 #: wp-includes/feed-atom-comments.php:34 wp-includes/feed-rss2-comments.php:39
 msgid "Comments for %1$s searching on %2$s"
@@ -3470,7 +3472,7 @@ msgstr ""
 
 #: wp-includes/feed-atom-comments.php:36 wp-includes/feed-rss2-comments.php:41
 msgid "Comments for %s"
-msgstr ""
+msgstr "%s-க்கு மேல்வந்த பின்னூட்டங்கள்"
 
 #: wp-includes/feed-atom-comments.php:73 wp-includes/feed-rss2-comments.php:72
 msgid "Comment on %1$s by %2$s"
@@ -3482,11 +3484,11 @@ msgstr ""
 
 #: wp-includes/feed-rss2-comments.php:37
 msgid "Comments on: %s"
-msgstr ""
+msgstr "%s-க்கான பின்னூட்டங்கள்"
 
 #: wp-includes/feed-rss2-comments.php:82
 msgid "Protected Comments: Please enter your password to view comments."
-msgstr ""
+msgstr "பாதுகாக்கப்பட்ட பின்னூட்டங்கள். பின்னூட்டங்களை காண உங்களது கடவுச்சொல்லை கொடுக்கவும்."
 
 #. translators: opening curly double quote
 #: wp-includes/formatting.php:88 wp-includes/formatting.php:4105
@@ -3665,15 +3667,15 @@ msgstr ""
 
 #: wp-includes/functions.php:1948
 msgid "Empty filename"
-msgstr ""
+msgstr "கோப்புபெயர் காலியாக உள்ளது"
 
 #: wp-includes/functions.php:1952
 msgid "Invalid file type"
-msgstr ""
+msgstr "v"
 
 #: wp-includes/functions.php:1990
 msgid "Could not write file %s"
-msgstr ""
+msgstr "%s  கோப்பில் எழுத இயலவில்லை"
 
 #: wp-includes/functions.php:2330
 msgid "You are attempting to log out of %s"
@@ -3689,7 +3691,7 @@ msgstr "மீண்டும் முயற்சிக்கவும்."
 
 #: wp-includes/functions.php:2339
 msgid "WordPress Failure Notice"
-msgstr ""
+msgstr "வோர்ட்பிரஸ் தோல்விக்கான அறிவிப்பு"
 
 #: wp-includes/functions.php:2458
 msgid "&laquo; Back"
@@ -3768,13 +3770,15 @@ msgstr "அமர்வு காலாவதியானது."
 
 #: wp-includes/functions.php:4791 wp-includes/user.php:191
 msgid "Please log in again."
-msgstr ""
+msgstr "தயவுசெய்து மீண்டும் உள்நுழையும்."
 
 #: wp-includes/functions.php:4792
 msgid ""
 "The login page will open in a new window. After logging in you can close it "
 "and return to this page."
 msgstr ""
+"உள்நுழைவு பக்கம் புதிய சாளரத்தில் திறக்கும். உள்நுழைந்த பின் அந்த சாளரத்தை மூடிவிட்டு இந்த "
+"பக்கத்திற்கு திரும்பலாம்."
 
 #: wp-includes/functions.wp-scripts.php:42
 msgid ""
@@ -3928,7 +3932,7 @@ msgstr "பிம்பங்கள்"
 #: wp-includes/general-template.php:1228
 msgctxt "post format archive title"
 msgid "Videos"
-msgstr ""
+msgstr "காணொளிகள்"
 
 #: wp-includes/general-template.php:1230
 msgctxt "post format archive title"
@@ -3938,17 +3942,17 @@ msgstr "மேற்கோள்கள்"
 #: wp-includes/general-template.php:1232
 msgctxt "post format archive title"
 msgid "Links"
-msgstr ""
+msgstr "இணைப்புகள்"
 
 #: wp-includes/general-template.php:1234
 msgctxt "post format archive title"
 msgid "Statuses"
-msgstr ""
+msgstr "நிலைகள்"
 
 #: wp-includes/general-template.php:1236
 msgctxt "post format archive title"
 msgid "Audio"
-msgstr ""
+msgstr "ஒலி"
 
 #: wp-includes/general-template.php:1238
 msgctxt "post format archive title"
@@ -4512,7 +4516,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:255
 msgid "List View"
-msgstr ""
+msgstr "v"
 
 #: wp-includes/media-template.php:258
 msgid "Grid View"
@@ -4524,7 +4528,7 @@ msgstr "பதிவேற்றப்படுகிறது"
 
 #: wp-includes/media-template.php:264
 msgid "Dismiss Errors"
-msgstr ""
+msgstr "பிழைகளை நிராகரி"
 
 #: wp-includes/media-template.php:284
 msgid "Edit previous media item"
@@ -4565,7 +4569,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:356 wp-includes/media-template.php:533
 msgid "Length:"
-msgstr ""
+msgstr "நீளம்:"
 
 #: wp-includes/media-template.php:361
 msgid "Bitrate:"
@@ -4747,7 +4751,7 @@ msgstr "பிம்பங்களை காட்டு"
 
 #: wp-includes/media-template.php:848 wp-includes/media-template.php:914
 msgid "Align"
-msgstr ""
+msgstr "ஒழுங்குசெய்"
 
 #: wp-includes/media-template.php:869 wp-includes/media-template.php:981
 msgid "Image URL"
@@ -4767,7 +4771,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:912
 msgid "Display Settings"
-msgstr ""
+msgstr "காட்சி அமைப்புகள்"
 
 #: wp-includes/media-template.php:959
 msgid "Custom Size"
@@ -4775,7 +4779,7 @@ msgstr ""
 
 #: wp-includes/media-template.php:994
 msgid "Advanced Options"
-msgstr ""
+msgstr "மேம்பட்ட தெரிவுகள்"
 
 #: wp-includes/media-template.php:998
 msgid "Image Title Attribute"
@@ -4936,7 +4940,7 @@ msgstr ""
 
 #: wp-includes/media.php:3050
 msgid "Insert Media"
-msgstr ""
+msgstr "ஊடகத்தை நுழை"
 
 #: wp-includes/media.php:3051
 msgid "Create a new gallery"
@@ -4960,7 +4964,7 @@ msgstr ""
 
 #: wp-includes/media.php:3056
 msgid "All dates"
-msgstr ""
+msgstr "அனைத்து தேதிகள்"
 
 #: wp-includes/media.php:3058
 msgid "Insert into page"
@@ -5023,7 +5027,7 @@ msgstr "தேர்வை குப்பையிலிருந்து ந�
 
 #: wp-includes/media.php:3069
 msgid "Delete Selected"
-msgstr ""
+msgstr "தேர்ந்தெடுத்ததை நீக்கு"
 
 #: wp-includes/media.php:3072
 msgid "Filter by date"
@@ -5043,7 +5047,7 @@ msgstr ""
 
 #: wp-includes/media.php:3081
 msgid "Insert from URL"
-msgstr ""
+msgstr "வலைமுகவரியில் இருந்து நுழை"
 
 #: wp-includes/media.php:3088
 msgid "Create Gallery"
@@ -5079,7 +5083,7 @@ msgstr ""
 
 #: wp-includes/media.php:3098
 msgid "Image Details"
-msgstr ""
+msgstr "பிம்ப விபரங்கள்"
 
 #: wp-includes/media.php:3099
 msgid "Replace Image"
@@ -5116,7 +5120,7 @@ msgstr ""
 
 #: wp-includes/media.php:3114
 msgid "Audio Details"
-msgstr ""
+msgstr "ஒலி விபரங்கள்"
 
 #: wp-includes/media.php:3115
 msgid "Replace Audio"
@@ -5850,6 +5854,8 @@ msgid ""
 "This content is password protected. To view it please enter your password "
 "below:"
 msgstr ""
+"இந்த உள்ளடக்கம் கடவுச்சொல்லால் பாதுகாக்கப்பட்டுள்ளது. அதை காண கீழு உங்களது கடவுச்சொல்லை "
+"கொடுக்கவும்."
 
 #: wp-includes/post-template.php:1668
 msgid "Submit"
