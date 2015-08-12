@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-09 23:27+0530\n"
+"PO-Revision-Date: 2015-08-12 07:04+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -568,7 +568,7 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-control.php:1574
 msgid "Add or remove menu items"
-msgstr ""
+msgstr "பட்டி உருப்படிகளை சேர் அல்லது நீக்கு"
 
 #: wp-includes/class-wp-customize-control.php:1575
 msgid "Add Items"
@@ -577,12 +577,12 @@ msgstr "உருப்படிகளை சேர்"
 #: wp-includes/class-wp-customize-control.php:1577
 #: wp-includes/class-wp-customize-nav-menus.php:352
 msgid "Reorder menu items"
-msgstr ""
+msgstr "பட்டி உருப்படிகளை மறுஒழுங்குசெய்"
 
 #: wp-includes/class-wp-customize-control.php:1578
 msgctxt "Reorder menu items in Customizer"
 msgid "Reorder"
-msgstr ""
+msgstr "மறுஒழுங்குசெய்"
 
 #: wp-includes/class-wp-customize-control.php:1579
 msgctxt "Cancel reordering menu items in Customizer"
@@ -597,16 +597,16 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-control.php:1585
 msgid "Delete menu"
-msgstr ""
+msgstr "தெரிவு திரையை நீக்கு"
 
 #: wp-includes/class-wp-customize-control.php:1591
 msgid "Menu locations"
-msgstr ""
+msgstr "தெரிவுதிரை இடங்கள்"
 
 #: wp-includes/class-wp-customize-control.php:1598
 msgctxt "Current menu location"
 msgid "(Current: %s)"
-msgstr ""
+msgstr "(தற்போது: %s)"
 
 #. translators: 1: Title of a menu item, 2: Type of a menu item
 #: wp-includes/class-wp-customize-control.php:1690
@@ -850,35 +850,35 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-nav-menus.php:330
 msgid "Menu Name"
-msgstr ""
+msgstr "தெரிவு திரை பெயர்"
 
 #: wp-includes/class-wp-customize-nav-menus.php:331
 msgid "Menu item added"
-msgstr ""
+msgstr "பட்டி உருப்படி சேர்க்கப்பட்டது"
 
 #: wp-includes/class-wp-customize-nav-menus.php:332
 msgid "Menu item deleted"
-msgstr ""
+msgstr "பட்டி உருப்படி நீக்கப்பட்டது"
 
 #: wp-includes/class-wp-customize-nav-menus.php:333
 msgid "Menu created"
-msgstr ""
+msgstr "தெரிவு திரை உருவாக்கப்பட்டது"
 
 #: wp-includes/class-wp-customize-nav-menus.php:334
 msgid "Menu deleted"
-msgstr ""
+msgstr "தெரிவு திரை நீக்கப்பட்டது"
 
 #: wp-includes/class-wp-customize-nav-menus.php:335
 msgid "Menu item moved up"
-msgstr ""
+msgstr "பட்டி உருப்படி மேல்நோக்கி நகர்த்தப்பட்டது"
 
 #: wp-includes/class-wp-customize-nav-menus.php:336
 msgid "Menu item moved down"
-msgstr ""
+msgstr "பட்டி உருப்படி கீழ்நோக்கி நகர்த்தப்பட்டது"
 
 #: wp-includes/class-wp-customize-nav-menus.php:337
 msgid "Menu item moved out of submenu"
-msgstr ""
+msgstr "பட்டி உருப்படி கிளைபட்டிக்கு வெளியே நகர்த்தப்பட்டது"
 
 #: wp-includes/class-wp-customize-nav-menus.php:338
 msgid "Menu item is now a sub-item"
@@ -1011,7 +1011,7 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-nav-menus.php:553
 msgid "Add a Menu"
-msgstr ""
+msgstr "தெரிவு திரையை சேர்"
 
 #: wp-includes/class-wp-customize-nav-menus.php:570
 msgid "New menu name"
@@ -1046,7 +1046,7 @@ msgstr "ஒரு அளவு கீழே நகர்த்து"
 #: wp-includes/class-wp-customize-section.php:356
 #: wp-includes/class-wp-customize-widgets.php:688 wp-includes/media.php:3036
 msgid "Back"
-msgstr ""
+msgstr "பின்செல்"
 
 #. translators: &#9656; is the unicode right-pointing triangle, and %s is the
 #. section title in the Customizer
@@ -1083,7 +1083,7 @@ msgstr ""
 #: wp-includes/class-wp-customize-nav-menus.php:742
 #: wp-includes/class-wp-editor.php:1408 wp-includes/media-template.php:820
 msgid "Link Text"
-msgstr ""
+msgstr "இணைப்பு உரை"
 
 #: wp-includes/class-wp-customize-nav-menus.php:748
 msgid "Add to Menu"
@@ -1119,7 +1119,7 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-panel.php:469
 msgid "Menu Options"
-msgstr ""
+msgstr "தெரிவுத்திரை தெரிவுகள்"
 
 #: wp-includes/class-wp-customize-section.php:236
 #: wp-includes/class-wp-customize-section.php:420
