@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-12 07:04+0530\n"
+"PO-Revision-Date: 2015-08-12 08:10+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -1087,7 +1087,7 @@ msgstr "இணைப்பு உரை"
 
 #: wp-includes/class-wp-customize-nav-menus.php:748
 msgid "Add to Menu"
-msgstr ""
+msgstr "தெரிவுத்திரையுடன் சேர்"
 
 #: wp-includes/class-wp-customize-nav-menus.php:763
 msgid "No items"
@@ -1213,7 +1213,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:178
 msgid "Visual"
-msgstr ""
+msgstr "காட்சி"
 
 #: wp-includes/class-wp-editor.php:180
 msgctxt "Name for the Text editor tab (formerly HTML)"
@@ -1431,12 +1431,12 @@ msgstr ""
 #: wp-includes/class-wp-editor.php:868
 msgctxt "list style"
 msgid "Circle"
-msgstr ""
+msgstr "வட்டம்"
 
 #: wp-includes/class-wp-editor.php:869
 msgctxt "list style"
 msgid "Disc"
-msgstr ""
+msgstr "தட்டு"
 
 #: wp-includes/class-wp-editor.php:870
 msgctxt "list style"
@@ -5941,11 +5941,11 @@ msgstr "திருத்தம்"
 
 #: wp-includes/post.php:100
 msgid "Navigation Menu Items"
-msgstr ""
+msgstr "வழிசெலுத்தல் தெரிவுத்திரை உருப்படிகள்"
 
 #: wp-includes/post.php:101
 msgid "Navigation Menu Item"
-msgstr ""
+msgstr "வழிசெலுத்தல் தெரிவுத்திரை உருப்படி"
 
 #: wp-includes/post.php:112
 msgctxt "post"
@@ -6830,11 +6830,11 @@ msgstr ""
 
 #: wp-includes/taxonomy.php:82
 msgid "Navigation Menus"
-msgstr ""
+msgstr "வழிசெலுத்தல் தெரிவுத்திரைகள்"
 
 #: wp-includes/taxonomy.php:83
 msgid "Navigation Menu"
-msgstr ""
+msgstr "வழிசெலுத்தல் தெரிவுத்திரை"
 
 #: wp-includes/taxonomy.php:95
 msgid "Link Categories"
@@ -7639,6 +7639,8 @@ msgid ""
 "Your password reset link appears to be invalid. Please request a new link "
 "below."
 msgstr ""
+"உங்கள் கடவுச்சொல் மீளமைப்பு இணைப்பு செல்லுபடியாகாதது போல் உள்ளது. புதிய இணைப்பு கீழே "
+"வேண்டவும்."
 
 #: wp-login.php:534
 msgid "Your password reset link has expired. Please request a new link below."
@@ -7654,6 +7656,8 @@ msgid ""
 "Please enter your username or email address. You will receive a link to "
 "create a new password via email."
 msgstr ""
+"தயவுசெய்து உங்களது பயனர்பெயர் அல்லது மின்னஞ்சலை கொடுக்கவும். புதிய கடவுச்சொல்லை உருவாக்க "
+"மின்னஞ்சலில் ஒரு இணைப்பை பெறுவீர்கள்."
 
 #: wp-login.php:563
 msgid "Username or E-mail:"
