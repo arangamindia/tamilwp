@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-17 07:36+0530\n"
+"PO-Revision-Date: 2015-08-17 07:48+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -693,7 +693,7 @@ msgstr ""
 #: wp-includes/class-wp-customize-manager.php:1345
 #: wp-includes/class-wp-xmlrpc-server.php:453
 msgid "Site Title"
-msgstr ""
+msgstr "வலைத்தள தலைப்பு"
 
 #: wp-includes/class-wp-customize-manager.php:1356
 msgid "Tagline"
@@ -781,7 +781,7 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-manager.php:1522
 msgid "Static Front Page"
-msgstr ""
+msgstr "மாற்றமில்லா முகப்பு பக்கம்"
 
 #: wp-includes/class-wp-customize-manager.php:1525
 msgid "Your theme supports a static front page."
@@ -789,7 +789,7 @@ msgstr ""
 
 #: wp-includes/class-wp-customize-manager.php:1536
 msgid "Front page displays"
-msgstr ""
+msgstr "முகப்பு பக்க காட்சிகள்"
 
 #: wp-includes/class-wp-customize-manager.php:1540
 msgid "Your latest posts"
@@ -1506,7 +1506,7 @@ msgstr "ஆக்கியோன்"
 
 #: wp-includes/class-wp-editor.php:891
 msgid "Insert/edit image"
-msgstr ""
+msgstr "பிம்பத்தை நுழை/திருத்து"
 
 #: wp-includes/class-wp-editor.php:892
 msgid "General"
@@ -1534,7 +1534,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:898
 msgid "Image description"
-msgstr ""
+msgstr "பிம்ப விரிவுரை"
 
 #: wp-includes/class-wp-editor.php:899
 msgid "Style"
@@ -1542,11 +1542,11 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:900
 msgid "Dimensions"
-msgstr ""
+msgstr "பரிமாணங்கள்"
 
 #: wp-includes/class-wp-editor.php:901 wp-includes/script-loader.php:111
 msgid "Insert image"
-msgstr ""
+msgstr "பிம்பத்தை நுழைத்திடு"
 
 #: wp-includes/class-wp-editor.php:902
 msgid "Insert date/time"
@@ -1554,7 +1554,7 @@ msgstr "தேதி/நேரத்தை இணை"
 
 #: wp-includes/class-wp-editor.php:903
 msgid "Insert/edit video"
-msgstr ""
+msgstr "காணொளியை நுழை/திருத்து"
 
 #: wp-includes/class-wp-editor.php:904
 msgid "Poster"
@@ -1570,7 +1570,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:907
 msgid "Insert video"
-msgstr ""
+msgstr "காணொளியை நுழைத்திடு"
 
 #: wp-includes/class-wp-editor.php:908
 msgid "Embed"
@@ -2937,7 +2937,7 @@ msgstr "ஒரு பின்னூட்டத்தை விட உள்ந
 
 #: wp-includes/comment-template.php:1572
 msgid "Click here to cancel reply."
-msgstr ""
+msgstr "பதிலை நிராகரிக்க இங்கே சொடுக்கவும்."
 
 #: wp-includes/comment-template.php:1660 wp-includes/comment-template.php:2264
 #: wp-includes/theme-compat/comments.php:68
@@ -3236,7 +3236,7 @@ msgstr "இடுகை எண்ணிக்கைகளை காட்டு"
 
 #: wp-includes/default-widgets.php:439
 msgid "Login, RSS, &amp; WordPress.org links."
-msgstr ""
+msgstr "உள்நுழைவு, RSS, மற்றும் WordPress.org இணைப்புகள்."
 
 #: wp-includes/default-widgets.php:440 wp-includes/default-widgets.php:449
 #: wp-includes/theme-compat/sidebar.php:69
@@ -7110,7 +7110,7 @@ msgstr "மின்னஞ்ல்"
 
 #: wp-includes/theme-compat/comments-popup.php:84
 msgid "<abbr title=\"Universal Resource Locator\">URL</abbr>"
-msgstr ""
+msgstr "<abbr title=\"Universal Resource Locator\">வலைமுகவரி</abbr>"
 
 #: wp-includes/theme-compat/comments-popup.php:89
 msgid "Your Comment"
