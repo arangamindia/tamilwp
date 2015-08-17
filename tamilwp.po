@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: WordPress 4.3-beta4-33421\n"
 "Report-Msgid-Bugs-To: https://make.wordpress.org/polyglots\n"
 "POT-Creation-Date: 2015-07-28 22:02+0530\n"
-"PO-Revision-Date: 2015-08-12 08:10+0530\n"
+"PO-Revision-Date: 2015-08-17 07:36+0530\n"
 "Last-Translator: Arangam <arangam.india@gmail.com>\n"
 "Language-Team: Arangam <admin@arangam.in>\n"
 "Language: ta_IN\n"
@@ -229,17 +229,17 @@ msgstr "சிறுஞ்சுட்டி"
 #: wp-includes/admin-bar.php:613
 msgctxt "add new from admin bar"
 msgid "Link"
-msgstr ""
+msgstr "புதிய இணைப்பு"
 
 #: wp-includes/admin-bar.php:633
 msgctxt "add new from admin bar"
 msgid "User"
-msgstr ""
+msgstr "புதிய பயனர்"
 
 #: wp-includes/admin-bar.php:638
 msgctxt "admin bar menu group label"
 msgid "New"
-msgstr ""
+msgstr "புதிய"
 
 #: wp-includes/admin-bar.php:671
 msgid "%s comment awaiting moderation"
@@ -2086,11 +2086,11 @@ msgstr "Shift  + Alt + எழுத்து"
 
 #: wp-includes/class-wp-editor.php:1049
 msgid "Cmd + letter:"
-msgstr ""
+msgstr "கட்டளை + எழுத்து:"
 
 #: wp-includes/class-wp-editor.php:1050
 msgid "Ctrl + letter:"
-msgstr ""
+msgstr "கட்டுப்பாடு + எழுத்து:"
 
 #: wp-includes/class-wp-editor.php:1051
 msgid "Letter"
@@ -2127,7 +2127,7 @@ msgstr ""
 
 #: wp-includes/class-wp-editor.php:1414
 msgid "Or link to existing content"
-msgstr ""
+msgstr "அல்லது ஏற்கனேவே உள்ள உள்ளடக்கத்துடன் இணைத்திடு"
 
 #: wp-includes/class-wp-editor.php:1431
 msgid "No search term specified. Showing recent items."
@@ -2144,7 +2144,7 @@ msgstr "இணைப்பை சேர்"
 #: wp-includes/class-wp-image-editor-gd.php:97
 #: wp-includes/class-wp-image-editor-imagick.php:130
 msgid "File doesn&#8217;t exist?"
-msgstr ""
+msgstr "கோப்பு இருக்கவில்லையா?"
 
 #: wp-includes/class-wp-image-editor-gd.php:113
 #: wp-includes/class-wp-image-editor-imagick.php:140
@@ -2153,7 +2153,7 @@ msgstr "கோப்பு ஒரு பிம்பம் அல்ல"
 
 #: wp-includes/class-wp-image-editor-gd.php:117
 msgid "Could not read image size."
-msgstr ""
+msgstr "பிம்ப அளவை படிக்க முடியவில்லை."
 
 #: wp-includes/class-wp-image-editor-gd.php:180
 #: wp-includes/class-wp-image-editor-gd.php:205
@@ -2186,7 +2186,7 @@ msgstr ""
 
 #: wp-includes/class-wp-image-editor-imagick.php:211
 msgid "Could not read image size"
-msgstr ""
+msgstr "பிம்ப அளவை படிக்க முடியவில்லை."
 
 #: wp-includes/class-wp-image-editor.php:286
 msgid "Attempted to set image quality outside of the range [1,100]."
@@ -5406,6 +5406,11 @@ msgid ""
 "\n"
 "Disable these notifications: %4$s"
 msgstr ""
+"புதிய வலைத்தளம்: %1$s\n"
+"வலைமுகவரி: %2$s\n"
+"இணைய முகவரி: %3$s\n"
+"\n"
+"இந்த அறிவிப்புகளை முடக்கு: %4$s"
 
 #: wp-includes/ms-functions.php:1238
 msgid "New Site Registration: %s"
@@ -5654,7 +5659,7 @@ msgstr ""
 
 #: wp-includes/pluggable.php:1462
 msgid "New comment on your post \"%s\""
-msgstr ""
+msgstr "உங்கள் இடுகையில் புதிய பின்னூட்டம் \"%s\""
 
 #. translators: 1: comment author, 2: author IP, 3: author domain
 #: wp-includes/pluggable.php:1464 wp-includes/pluggable.php:1594
@@ -6217,7 +6222,7 @@ msgstr ""
 #: wp-includes/script-loader.php:546
 msgctxt "tag delimiter"
 msgid ","
-msgstr ""
+msgstr ","
 
 #: wp-includes/query.php:145 wp-includes/query.php:166
 #: wp-includes/query.php:187 wp-includes/query.php:211
@@ -6596,7 +6601,7 @@ msgstr "முடிவுகள் ஏதும் கிடைக்கவி�
 #: wp-includes/script-loader.php:407
 msgctxt "word count: words, characters or all?"
 msgid "words"
-msgstr ""
+msgstr "words"
 
 #: wp-includes/script-loader.php:422
 msgid "Save &amp; Activate"
@@ -6635,6 +6640,8 @@ msgid ""
 "Are you sure you want to edit this comment?\n"
 "The changes you made will be lost."
 msgstr ""
+"நீங்கள் இந்த பின்னூட்டத்தை திருத்த கட்டாயம் விரும்புகிறீர்களா? \n"
+" நீங்கள் செய்த மாற்றங்கள் தொலைந்து போகும்."
 
 #: wp-includes/script-loader.php:490
 msgid "Publish on:"
